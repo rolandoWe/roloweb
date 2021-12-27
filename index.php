@@ -59,7 +59,7 @@
           <article class="art_tecno">
           <p> <a href="">Git</a> </p>
                 <figure class="fig_tecno">
-                   <a href="paginas/tiempos/index.php"> <img src="imagenes/Logo-de-git.png" alt=""></a>
+                   <a href="paginas/tiempos/index.php"> <img src="imagenes/logo_git.png" alt=""></a>
                 </figure>
               </article>
 
