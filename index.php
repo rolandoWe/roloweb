@@ -1,81 +1,85 @@
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Super Eva</title>
-    <link rel="stylesheet" href="index.css">
-</head>
-<body>
-    <main class="main">
-       <nav class="nav">
-         <div class="logo">Super Eva</div>
-         <ul class="ul">
-             <span class="close">X</span>
-             <li><a href="#">Sección_1</a></li>
-             <li><a href="#">Sección_2</a></li>
-             <li><a href="#">Sección_3</a></li>
-             <li><a href="#">Sección_4</a></li>
-         </ul>
-         <div class="hamburguesa">..</div>
-       </nav>
-       <header class="header">
-         <!-- <div class="h_text">
-             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis neque laudantium maiores animi ab vel, quam pariatur nihil non et dolore a eos, ducimus fugit quos mollitia, doloribus temporibus repellat! Ex dolorem exercitationem obcaecati.</p>
-         </div> -->
-         <div class="h_lightBox">
-             <figure class="figura">
+<?php include("template/cabecera.php")?>
+<?php include("template/header.php") ?>
 
-             </figure>
-         </div>
-       </header>
 
         <section class="contenedor">
-         <div class="imagen">
-             <figure>
-                 <img src="imagenes/images.png" alt="">
-             </figure>
-             <h3> <a href="#"> Lorem, ipsum dolor.</a></h3>
-         </div>
-         <div class="imagen">
-             <figure>
-                 <img src="imagenes/buho_libro.png" alt="">
-             </figure>
-             <h3> <a href="#"> Lorem, ipsum dolor.</a></h3>
-         </div>
-         <div class="imagen">
-             <figure>
-                 <img src="imagenes/buho_2_libros.png" alt="">
-             </figure>
-             <h3> <a href="#"> Lorem, ipsum dolor.</a></h3>
-         </div>
-         <div class="imagen">
-             <figure>
-                 <img src="imagenes/buho_corona.png" alt="">
-             </figure>
-             <h3> <a href="#"> Lorem, ipsum dolor.</a></h3>
-         </div>
-         <div class="imagen">
-             <figure>
-                 <img src="imagenes/buho_flor.png" alt="">
-             </figure>
-             <h3> <a href="#"> Lorem, ipsum dolor.</a></h3>
-         </div>
-         <div class="imagen">
-             <figure>
-                 <img src="imagenes/images.png" alt="">
-             </figure>
-             <h3> <a href="#"> Lorem, ipsum dolor.</a></h3>
-         </div>
+          <h2>Mis Proyectos</h2>
+          <div class="proyectos">
+              <article class="article">
+                <figure class="figure">
+                   <a href="tiempos.php"> <img src="imagenes/page_tiempos.png" alt=""></a>
+                </figure>
+                <p><a href="tiempos.php">Consulta los resultados de los Nuevos tiempos.</a></p>
+              </article>
+              <article class="article">
+                <figure class="figure">
+                   <a href="paginas/netflix/index.php"> <img src="paginas/netflix/imagenes/page_netflix.png" alt=""></a>
+                </figure>
+                <p><a href="paginas/netflix/index.php">Página tipo Netflix</a></p>
+              </article>
+              <article class="article">
+                <figure class="figure">
+                   <a href="paginas/clinica/index.php"> <img src="imagenes/page_clinica.png" alt=""></a>
+                </figure>
+                <p><a href="paginas/clinica/index.php">Página tipo clinica</a></p>
+              </article>
+          </div>
+          <!-- *************************TECNOLOGÍAS********************************* -->
+          <h2>Tecnologías.</h2>
+          <div class="tecno">
+              <article class="art_tecno">
+              <p><a href="">HTML</a></p>
+                <figure class="fig_tecno">
+                   <a href="paginas/tiempos/index.php"> <img src="imagenes/HTML5.png" alt=""></a>
+                </figure>
+              </article>
+
+            <article class="art_tecno">
+              <p><a href="">CSS</a></p>
+                <figure class="fig_tecno">
+                   <a href="paginas/tiempos/index.php"> <img src="imagenes/CSS3.png" alt=""></a>
+                </figure>
+              </article>
+
+          <article class="art_tecno">
+          <p> <a href="">Javascript</a> </p>
+                <figure class="fig_tecno">
+                   <a href="paginas/tiempos/index.php"> <img src="imagenes/javascript.png" alt=""></a>
+                </figure>
+              </article>
+
+          <article class="art_tecno">
+          <p> <a href="">Github</a> </p>
+                <figure class="fig_tecno">
+                   <a href="paginas/tiempos/index.php"> <img src="imagenes/github.png" alt=""></a>
+                </figure>
+              </article>
+
+          <article class="art_tecno">
+          <p> <a href="">Git</a> </p>
+                <figure class="fig_tecno">
+                   <a href="paginas/tiempos/index.php"> <img src="imagenes/Logo-de-git.png" alt=""></a>
+                </figure>
+              </article>
+
+          <article class="art_tecno">
+          <p> <a href="">Bootstrap</a> </p>
+                <figure class="fig_tecno">
+                   <a href="paginas/tiempos/index.php"> <img src="imagenes/bootstrap.png" alt=""></a>
+                </figure>
+              </article>
+
+          <article class="art_tecno">
+          <p> <a href="">Heroku</a> </p>
+                <figure class="fig_tecno">
+                   <a href="paginas/tiempos/index.php"> <img src="imagenes/heroku.png" alt=""></a>
+                </figure>
+              </article>
+
+          </div>
         </section>
+<?php include("template/header.php") ?>
+<?php include("template/pie.php") ?>
 
-        <footer>
-
-        </footer>
-
-    </main>
-</body>
-</html>
 

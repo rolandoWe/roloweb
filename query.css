@@ -1,0 +1,64 @@
+
+
+@media(max-width:992px){
+
+}
+@media(max-width:768px){
+.logo{
+    position: absolute;
+    left:10%
+}
+.ul{
+    width:100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left:0;
+    background: rgb(0, 0, 110);
+    flex-direction: column;
+    z-index: 2;
+    transition: .5s;
+    transform: translateY(-200%);
+}
+.ul li{
+    background: rgb(238, 237, 248);
+    width:100%;
+    text-align: center;
+}
+.ul li a{
+    display: inline-block;
+    width:90%;
+    background: transparent;
+    color: black;
+}
+.ver_ul{
+    transform: translateY(0);
+}
+.close{
+    display: block;
+    position: absolute;
+    top:5px;
+    right:5px;
+}
+.hamburguesa{
+    display: block;
+    margin: 0;
+}
+.h_text ul,.h_text ul:last-child{
+    width:100%
+}
+}
+@media(max-width:576px){
+ .article{
+     width:100%
+ }
+ .article p{
+     padding: 10px;
+ }
+ .footer p a{
+     font-size: 18px;
+ }
+}
+@media(max-width:300px){
+  
+}

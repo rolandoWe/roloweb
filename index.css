@@ -3,37 +3,62 @@
     margin:0 auto;
     padding:0;
     max-width: 1100px;
+    box-sizing: border-box;
 }
 body{
     background: rgb(200, 200, 200);
+    font-family: 'public sans';
+    /* font-weight: bold; */
 }
 .main{
     width:100%;
-    background: rgb(228, 228, 228);
+    background: rgb(255, 254, 254);
     margin-bottom: 20px;
-    padding: 20px 0;
+    padding-bottom: 20px ;
 }
 .nav{
-    border:solid black 1px;
+    position: fixed;
+    top: 0;
+    left:0;
+    right: 0;
+    /* border:solid black 1px; */
     height:50px;
-    width:95%;
+    width:100%;
     display:flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
+    background: rgb(0, 0, 110);
+    z-index: 3;
+    transition: .5s;
 }
 .logo{
     width:159px;
-    height:100%;
-    /* background: rgb(250, 199, 199); */
+    height:90%;
+    /* background: rgb(115, 130, 250,.2); */
+    border-radius: 20px;
     font-size: 25px;
     text-align: center;
     line-height: 50px;
+    font-weight: bold;
+}
+.logo:Hover{
+    background:rgb(1, 18, 150) ;
 }
 .logo,.ul{
     margin: 0;
 }
+.logo a{
+    color:rgba(255, 255, 255);
+    text-decoration: none;
+}
+.logo span{
+    color:rgba(255, 0, 0, 0.9);
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 0 0 2px white;
+}
 .ul{
-    width:70%;
+    width:60%;
     height: 100%;
     /* background: rosybrown; */
     display:flex;
@@ -41,11 +66,18 @@ body{
     justify-content: space-around;
 }
 .close{
-    background: chartreuse;
-    width:20px;
-    height:20px;
+    /* background: rgb(134, 247, 20); */
+    /* width:30px;
+    height:30px; */
     display: none;
     padding: 5px;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+}
+.close i{
+    font-size: 30px;
+   line-height: 30px;
 }
 .ul li{
     float: left;
@@ -54,80 +86,216 @@ body{
 
 }
 .ul li a{
-    background: chartreuse;
+    /* background: rgb(232, 250, 214,.2); */
     text-decoration: none;
     padding:6px 10px;
     border-radius: 5px;
+    color:rgb(255, 255, 255,.7);
+    font-weight:600;
+}
+.ul li a:hover{
+    background: rgba(1, 7, 78, 0.4);
 
 }
 .hamburguesa{
-    background: chartreuse;
-    width: 50px;
-    height: 50px;
+    /* background: chartreuse; */
+    /* width: 50px;
+    height: 50px; */
     display: none;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    top:auto;
+    right:20px
+}
+.hamburguesa i{
+    font-size: 30px;
+    color:rgba(255, 255, 255, 0.8)
 }
 .header{
     width:100%;
-    border:solid black 1px;
+    /* border:solid black 1px; */
     position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image:linear-gradient( rgb(255, 255, 255,.6)0%, rgb(255, 255, 255,.9)50%, rgb(255, 255, 255,.6)100%), url("imagenes/fondo_header.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+}
+.section{
+    width:100%;
+    /* border:solid black 1px; */
+    padding: 50px 0 20px;
+    margin-top: 20px;
+}
+.section h1{
     /* background: chartreuse; */
-}
-.header::after,.header::before{
-    width: 50px;
-    height: 50px;
-    background: rgb(127, 255, 0,.5);
-    position: absolute;
-    top: 45%;
+    width:100%;
     text-align: center;
-    line-height: 50px;
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 25px;
+    color:rgb(0, 0, 0,.7)
+}
+.section figure{
+    position: relative;
+    width:120px;
+    height:120px;
+    overflow: hidden;
+    /* border:solid red 1px; */
     border-radius: 50%;
-    cursor: pointer;
+    display: flex;
+    align-items:center;
+    justify-content: center;
 }
-.header::before{
-    content: "<<";
-    left: 1%;
+.section figure::after{
+    content: "";
+    width:100%;
+    height:100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 30, 255, 0.3);
 }
-.header::after{
-    content: ">>";
-    right:1%
+
+.section figure img{
+    width:150%
 }
-.h_lightBox{
-    width:95%;
-    height:300px;
-    border:solid blue 1px
+.h_text{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
+.h_text ul{
+    width:45%;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 5px;
+}
+.h_text ul li{
+    /* background: lemonchiffon; */
+    width:100%;
+    margin: 2px 0;
+    list-style: inside;
+    font-size: 18px;
+    font-style: italic;
+    /* text-shadow: 0 0 2px white; */
+    color:rgb(0, 0, 0)
+}
+.h_text ul:last-child{
+    width:50%
+}
+.h_text ul:last-child li{
+    list-style:none;
+    /* background: lightblue; */
+    padding-left: 10px;
+}
+.h_text ul:last-child a{
+    color:rgb(0, 21, 255);
+    /* text-decoration: none; */
+    font-weight: bold;
+}
+/* ****************MIS PROYECTOS **********************************/
 .contenedor{
-    border:solid black 1px;
+    /* border:solid black 1px; */
     width:100%;
     padding: 30px 0;
     margin: 20px 0;
+}
+.contenedor h2{
+    text-align: center;
+    color:rgb(0, 0, 0,.7);
+    /* background: rgb(30, 36, 210,.2); */
+    padding: 20px 0;
+    margin: 5px 0;
+    font-size: 30px;
+}
+.proyectos{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    /* background: lightcoral; */
+}
+.article{
+    width:250px;
+    margin:10px auto
+    /* border: solid black 1px; */
+}
+.article p{
+    font-size: 22px;
+    width:100%;
+    text-align: center;
+    padding:5px 0
+}
+article a{
+    color:rgb(2, 2, 175)
+}
+.figure{
+    width:100%;
+    height:200px;
+    /* border:solid red 1px; */
+    overflow-y: scroll;
+}
+.figure img{
+    width:100%
+}
+/* *****************************Tecnologias******************* */
+.tecno{
+    width:100%;
+    /* border:solid blue 1px; */
+    padding: 20px 0;
     display: flex;
     flex-wrap: wrap;
 }
-.imagen{
-    width:200px;
-    border:solid black 1px;
-    height:250px;
-    overflow: hidden;
-    display: grid;
-    align-content: space-around;
+.art_tecno{
+    width:100px;
+    height:100px;
+    margin:10px auto;
+    /* border:solid black 1px; */
+    background: rgb(128, 128, 128,.1);
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
 }
-.imagen figure{
+.art_tecno p{
     width:100%;
-    /* height:90%; */
-    overflow: hidden;
-    border:solid red 1px
+    padding: 5px 0;
+    text-align: center;
+    font-size: 18px;
 }
-.imagen figure img{
-    width:100%
+.fig_tecno{
+    width:60%;
+    height:55%;
+    /* border: solid red 1px; */
 }
-.imagen h3{
-    background: rgb(248, 236, 228);
+.fig_tecno img{
+    width: 100%;
+    height:100%
+}
+/* ******************FOOTER******************** */
+.footer{
+    width:100%;
+    min-height: 200px;
+    background: rgb(0, 0, 110);
+    display: grid;
+    align-content: center;
+}
+.footer p{
+    width:90%;
+    padding: 20px 0;
+    /* background: coral; */
     text-align: center;
     font-size: 20px;
-    width:100%;
-    line-height: 20px;
-    padding: 5px 0;
+    color: rgb(255, 255, 255);
+
+}
+.footer a{
+    color: rgb(255, 255, 255);
+    /* text-shadow: 0 0 5px white; */
+    font-weight: bold;
+    font-style: italic;
 }
