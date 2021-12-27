@@ -111,7 +111,7 @@
                 <tr>
                     <td>9  PM</td>
                     <td>Salió</td>
-                    <td>--</td>
+                    <td>09</td>
                 </tr>
             </table>
             <p>Costa Rica</p>
