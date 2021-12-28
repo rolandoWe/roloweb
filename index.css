@@ -78,6 +78,7 @@ body{
 .close i{
     font-size: 30px;
    line-height: 30px;
+   color:rgb(255, 255, 255,.7)
 }
 .ul li{
     float: left;
@@ -136,8 +137,17 @@ body{
     /* background: chartreuse; */
     width:100%;
     text-align: center;
-    font-size: 25px;
+    font-size: 22px;
     color:rgb(0, 0, 0,.7)
+}
+.section p{
+    text-align: center;
+    /* background: chartreuse; */
+    width:100%;
+    font-size: 18px;
+    letter-spacing: 4px;
+    font-weight: bold;
+    color: rgb(0, 0, 0,.7);
 }
 .section figure{
     position: relative;

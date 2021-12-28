@@ -61,8 +61,14 @@
     width:30px;
     height:30px;
     transform: rotate(45deg);
-    background: rgba(255, 0, 0,0.3);
-    border:solid rgb(255, 255, 255,.2) 1px ;
+    background: rgb(65, 0, 0);
+    /* border:solid rgb(255, 255, 255,.2) 1px ; */
+    animation: color 4s linear infinite
+}
+@keyframes color{
+    0%{background: rgb(65, 0, 0,.1);}
+    50%{background: rgb(255, 0, 0);}
+    100%{background: rgb(65, 0, 0,.1);}
 }
 .ver_dato{
  height: 350px;
