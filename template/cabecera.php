@@ -14,7 +14,7 @@
 <body>
     <main class="main">
      <nav class="nav">
-         <div class="logo"><a href="index.php">Rolo<span>Web</span> </a> </div>
+         <div class="logo"><a href="index.php">Rolo.<span>Web</span> </a> </div>
          <ul class="ul">
              <span class="close"><i class="far fa-times-circle"></i></span>
              <li><a href="index.php">Inicio</a></li>
