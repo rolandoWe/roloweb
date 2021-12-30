@@ -249,9 +249,15 @@
  
     </div>
 
-    <!-- <footer class="footer">
-        <p> <i class="far fa-copyright"></i> Creado por: <a href="https://www.facebook.com/rolandoRivera85">Rolando Rivera.</a></p>
-    </footer> -->
+   <div class="instante">
+       <p>Para ver los resultados al instánte, puedes pinchar en los botónes respectivos.
+           Debido a que ésta página no se actualíza instantáneamente.
+       </p>
+       <div class="inst_btns">
+           <button class="" type="button"> <a href="https://www.facebook.com/LottoDiaria">Nica</a> </button>
+           <button class="" type="button"> <a href="https://www.jps.go.cr/productos/nuevos-tiempos">Tica</a> </button>
+       </div>
+   </div>
    </div> 
    <?php include("template/header.php") ?>
 
