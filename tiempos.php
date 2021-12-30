@@ -250,7 +250,7 @@
     </div>
 
    <div class="instante">
-       <p>Para ver los resultados al instánte, puedes pinchar en los botónes respectivos.
+       <p>Para ver los resultados al instánte, puedes pinchar en los botónes <a href="https://www.jps.go.cr/productos/nuevos-tiempos">Tica</a> o <a href="https://www.facebook.com/LottoDiaria">Nica</a>.
            Debido a que ésta página no se actualíza instantáneamente.
        </p>
        <div class="inst_btns">
