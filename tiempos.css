@@ -164,7 +164,7 @@
 }
 .inst_btns{
     width:90%;
-    border:solid red 1px;
+    /* border:solid red 1px; */
     display: flex;
     justify-content: center;
     align-items: center;
