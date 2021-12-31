@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RoloWeb</title>
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./paginas/jugar_num/num.css">
+
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="query.css">
     <link rel="stylesheet" href="tiempos.css">
