@@ -200,6 +200,36 @@
 .inst_btns button:last-child{
     background: linear-gradient(blue,white, red, white, blue);
 }
+.jug_num{
+    background: rgb(248, 245, 245);
+    width:50%;
+    padding: 5px;
+    margin:5px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+}
+.jug_num p{
+    width:50%;
+    font-size: 18px;
+}
+.jug_num p a{
+    color:blue
+}
+.jug_num >a{
+    /* border:solid red 1px; */
+    width:50%
+}
+.jug_num img{
+    width:100%;
+    height:auto
+}
+@media (max-width:768px){
+    .jug_num{
+        width:100%
+    }
+}
 @media (max-width:576px){
 .contenedor_tiempos>p,.contenedor_tiempos h2{
     width:100%
@@ -231,5 +261,14 @@
 .inst_btns button a{
     font-size: 18px;
     line-height: 25px;
+}
+.jug_num{
+    flex-direction: column;
+}
+.jug_num p,.jug_num a{
+    width:95%
+}
+.jug_num p{
+    font-size: 15px;
 }
 }

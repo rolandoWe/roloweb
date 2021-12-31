@@ -314,14 +314,14 @@
                <tr>
                    <td>1 pm</td>
                    <td>Salió</td>
-                   <td>--</td>
-                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+                   <td>73</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
                </tr>
                <tr>
                    <td>7 pm</td>
                    <td>Salió</td>
                    <td>--</td>
-                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
                </tr>
                
             </table>
@@ -338,7 +338,13 @@
            <button class="" type="button"> <a href="https://www.jps.go.cr/productos/nuevos-tiempos">Tica</a> </button>
        </div>
    </div>
+
+
    </div> 
+   <div class="jug_num">
+       <p>Si quizieras practicar jugar a los numeros Aqui hay una forma de hacerlo, ingresas dando click <a href="num.php">Aquí</a> o en la imágen y vas a elegir un numero entre el 00 y el 99 y obtendras el resultado.</p>
+      <a href="num.php"><img src="paginas/jugar_num/imagenes/suerte.png" alt=""></a> 
+   </div>
    <?php include("template/header.php") ?>
 
 <?php include("template/pie.php") ?>
