@@ -248,6 +248,46 @@
         </div>
  
     </div>
+    <div class="grupo_datos">
+        <p class="flecha">Jueves 30 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>70</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>67</td>
+                </tr>
+                <tr>
+                    <td>9  pm</td>
+                    <td>Salió</td>
+                    <td>09</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>56</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>96</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+    </div>
 
    <div class="instante">
        <p>Para ver los resultados al instánte, puedes pinchar en los botónes <a href="https://www.jps.go.cr/productos/nuevos-tiempos">Tica</a> o <a href="https://www.facebook.com/LottoDiaria">Nica</a>.
