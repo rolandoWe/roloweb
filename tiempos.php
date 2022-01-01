@@ -320,8 +320,8 @@
                <tr>
                    <td>7 pm</td>
                    <td>Salió</td>
-                   <td>--</td>
-                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+                   <td>98</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
                </tr>
                
             </table>
