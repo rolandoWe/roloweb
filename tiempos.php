@@ -289,7 +289,7 @@
  
     </div>
     <div class="grupo_datos">
-        <p class="flecha">Jueves 31 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
+        <p class="flecha">Viernes 31 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
             <table class="tabla">
