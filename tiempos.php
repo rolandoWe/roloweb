@@ -301,7 +301,7 @@
                 <tr>
                     <td>3 pm</td>
                     <td>Salió</td>
-                    <td>--</td>
+                    <td>31</td>
                 </tr>
                 <tr>
                     <td>9  pm</td>
