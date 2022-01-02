@@ -79,6 +79,7 @@
 
           </div>
         </section>
+<?php include("template/videos.php") ?>
 <?php include("template/header.php") ?>
 <?php include("template/pie.php") ?>
 
