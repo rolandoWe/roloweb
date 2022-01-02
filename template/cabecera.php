@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./paginas/jugar_num/num.css">
 
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="css/videos.css">
     <link rel="stylesheet" href="query.css">
     <link rel="stylesheet" href="tiempos.css">
 
@@ -20,7 +21,7 @@
          <ul class="ul">
              <span class="close"><i class="far fa-times-circle"></i></span>
              <li><a href="index.php">Inicio</a></li>
-             <li><a href="#">Sección_2</a></li>
+             <li><a href="#videos">Videos</a></li>
              <li><a href="#">Sección_3</a></li>
              <li><a href="#">Sección_4</a></li>
          </ul>
