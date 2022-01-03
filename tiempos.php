@@ -329,7 +329,7 @@
  
     </div>
     <div class="grupo_datos">
-        <p class="flecha">Sabado 1 de Diciembre 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <p class="flecha">Sabado 1 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
             <table class="tabla">
@@ -366,6 +366,51 @@
                    <td>7 pm</td>
                    <td>Salió</td>
                    <td>--</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+    </div>
+    <div class="grupo_datos">
+        <p class="flecha">Domingo 2 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>12</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>03</td>
+                </tr>
+                <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>91</td>
+                </tr> -->
+                <tr>
+                    <td>9  pm</td>
+                    <td>Salió</td>
+                    <td>19</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>36</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>75</td>
                    <td class="col_celda"> <span class="bola_B">Bola</span> </td>
                </tr>
                
