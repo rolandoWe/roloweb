@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(200, 200, 200);
+    background: rgb(255, 165, 0);
     font-family: 'public sans';
     /* font-weight: bold; */
 }
@@ -15,6 +15,7 @@ body{
     background: rgb(255, 254, 254);
     margin-bottom: 20px;
     padding-bottom: 20px ;
+    box-shadow: 0 0 25px 5px rgb(0, 8, 47);
 }
 .nav{
     position: fixed;
@@ -27,7 +28,7 @@ body{
     display:flex;
     align-items: center;
     justify-content: space-around;
-    background: rgb(0, 0, 110);
+    background: rgb(0, 0, 200);
     z-index: 3;
     transition: .5s;
 }
@@ -52,7 +53,7 @@ body{
     text-decoration: none;
 }
 .logo span{
-    color:rgba(255, 0, 0, 0.9);
+    color:rgba(255, 0, 0, 0.6);
     font-size: 18px;
     font-weight: bold;
     text-shadow: 0 0 2px white;
@@ -91,7 +92,7 @@ body{
     text-decoration: none;
     padding:6px 10px;
     border-radius: 5px;
-    color:rgb(255, 255, 255,.7);
+    color:rgb(255, 255, 255,.9);
     font-weight:600;
 }
 .ul li a:hover{
@@ -200,14 +201,14 @@ body{
 }
 .h_text ul:last-child{
     width:50%;
-    border-top: white solid 2px;
-    border-left: white solid 2px;
+    border-top: rgb(0, 0, 180,.8) solid 2px;
+    border-left: rgb(0, 0, 180,.8) solid 2px;
     border-right: transparent solid 2px;
 }
 .h_text ul:first-child{
     /* width:50%; */
-    border-top: white solid 2px;
-    border-right: white solid 2px;
+    border-top: rgb(0, 0, 180,.8) solid 2px;
+    border-right: rgb(0, 0, 180,.8) solid 2px;
     border-left: transparent solid 2px;
 }
 .h_text ul:last-child li{
@@ -300,7 +301,7 @@ article a{
 .footer{
     width:100%;
     min-height: 200px;
-    background: rgb(0, 0, 110);
+    background: rgb(0, 0, 180);
     display: grid;
     align-content: center;
     margin-top: 20px;
