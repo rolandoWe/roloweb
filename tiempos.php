@@ -522,7 +522,7 @@
                 <tr>
                     <td>3 pm</td>
                     <td>Salió</td>
-                    <td>--</td>
+                    <td>15</td>
                 </tr>
                 <tr>
                     <!-- <td>6 pm</td>
@@ -532,7 +532,7 @@
                 <tr>
                     <td>9  pm</td>
                     <td>Salió</td>
-                    <td>--</td>
+                    <td>61</td>
                 </tr>
             </table>
             <p>Costa Rica</p>
@@ -546,8 +546,8 @@
                <tr>
                    <td>7 pm</td>
                    <td>Salió</td>
-                   <td>--</td>
-                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+                   <td>09</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
                </tr>
                
             </table>

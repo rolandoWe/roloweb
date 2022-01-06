@@ -13,7 +13,7 @@ body{
 .main{
     width:100%;
     background: rgb(255, 254, 254);
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     padding-bottom: 20px ;
     box-shadow: 0 0 25px 5px rgb(0, 8, 47);
 }
