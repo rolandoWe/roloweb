@@ -51,12 +51,16 @@ body{
 .logo a{
     color:rgba(255, 255, 255);
     text-decoration: none;
+    font-family: "Quantico";
+
 }
 .logo span{
-    color:rgba(255, 0, 0, 0.6);
-    font-size: 18px;
+    color:rgb(0, 0, 59);
+    font-size: 20px;
     font-weight: bold;
-    text-shadow: 0 0 2px white;
+    font-family: "Quantico";
+
+    text-shadow: 1px 1px 2px white;
 }
 .ul{
     width:60%;
