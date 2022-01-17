@@ -3,12 +3,11 @@
  <div class="contenedor_tiempos">
     <h3>Resultados</h3>
     <ul class="ull">
-        <li class="ver_mes">Ver por mes <i class="fas fa-chevron-circle-down"></i> </a>
+        <li class="ver_mes">Ver por mes <i class="fas fa-chevron-circle-down"></i> </li>
           <ul class="sub_ul">
-             <li><a href="#" class="enero2022">Enero 2022</a></li>
-             <li><a href="#" class="diciembre2021">Diciembre 2021</a></li>
+             <li><a href="#" class="enero2022 mes">Enero 2022</a></li>
+             <li><a href="#" class="diciembre2021 mes">Diciembre 2021</a></li>
           </ul>
-        <!-- </li> -->
     </ul>
 
 

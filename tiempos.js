@@ -25,15 +25,24 @@ function reT(){
           })
 }
 function ver(v){
-    if(v.className=="diciembre2021"){
+    if(v.className=="diciembre2021 mes"){
         reT()
         document.querySelectorAll(".diciembre").forEach(function(h){
             h.classList.toggle("no")
         })
-    }else if(v.className=="enero2022"){
+    }else if(v.className=="enero2022 mes"){
         reT()
         document.querySelectorAll(".enero").forEach(function(h){
             h.classList.remove("no")
         }) 
     }
 }
+document.querySelector(".ver_mes").addEventListener("click",function(f){
+    document.querySelector(".sub_ul").classList.toggle("ver_sub_ul")
+    
+})
+document.querySelectorAll(".mes").forEach(function(f){
+    f.addEventListener("click",function(){
+        document.querySelector(".sub_ul").classList.toggle("ver_sub_ul")
+    })
+})

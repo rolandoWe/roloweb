@@ -43,13 +43,13 @@ color:black
     overflow:hidden ;
     transition: .4s;
 }
+.ver_sub_ul{
+    height:90px
+}
 .sub_ul li a:hover{
     background: rgba(255, 255, 255, 0.8);
 }
-.ver_sub_ul{
-    height:80px;
-    padding: 2px;
-}
+
 .sub_ul li{
 margin: 3px 0;
 
@@ -70,9 +70,13 @@ margin: 3px 0;
     color:rgb(0, 8, 95);
     font-size: 20px;
 }
-.ver_mes:hover .sub_ul{
+/* .ver_mes:hover .sub_ul{
     height:80px;
-    /* padding:0 5px; */
+} */
+.x_ul{
+    display: none;
+    height:0px;
+    overflow: hidden;
 }
 /* AQUI TRABAJAMOS CON EL <<CONTENEDOR_TIEMPOS>> */
 .contenedor_tiempos h3{
