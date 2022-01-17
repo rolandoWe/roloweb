@@ -14,3 +14,26 @@ for(let i=0;i<flecha.length;i++){
         }
     })
 }
+
+// Aqui trabajamos con el boton <<ver por mes>>
+document.querySelector(".ull").addEventListener("click",function(g){
+    ver(g.target)
+})
+function reT(){
+    document.querySelectorAll(".grupo_datos").forEach(function(f){
+        f.classList.add("no")
+          })
+}
+function ver(v){
+    if(v.className=="diciembre2021"){
+        reT()
+        document.querySelectorAll(".diciembre").forEach(function(h){
+            h.classList.toggle("no")
+        })
+    }else if(v.className=="enero2022"){
+        reT()
+        document.querySelectorAll(".enero").forEach(function(h){
+            h.classList.remove("no")
+        }) 
+    }
+}

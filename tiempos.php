@@ -2,9 +2,19 @@
 <?php include("template/cabecera.php") ?>
  <div class="contenedor_tiempos">
     <h3>Resultados</h3>
+    <ul class="ull">
+        <li class="ver_mes">Ver por mes <i class="fas fa-chevron-circle-down"></i> </a>
+          <ul class="sub_ul">
+             <li><a href="#" class="enero2022">Enero 2022</a></li>
+             <li><a href="#" class="diciembre2021">Diciembre 2021</a></li>
+          </ul>
+        <!-- </li> -->
+    </ul>
+
+
     <p>Si eres un aficionado a los juegos de Azár tales como Lotto Nicaraguense o Nuevos Tiempos de la Junta de Protección Social, éste es el lugar ideal para consultar los ultimos resultados de los numeros ganadores.</p>
     <h2> 🍀 MUCHA SUERTE.. 🍀</h2>
-    <div class="grupo_datos">
+    <div class="grupo_datos diciembre no">
         <p class="flecha">Viernes 24 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -43,7 +53,7 @@
             </table>
         </div>
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos diciembre no">
         <p class="flecha">Sabado 25 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -88,7 +98,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos diciembre no">
         <p class="flecha">Domingo 26 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -128,7 +138,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos diciembre no">
         <p class="flecha">Lunes 27 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -168,7 +178,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos diciembre no">
         <p class="flecha">Martes 28 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -208,7 +218,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos diciembre no">
         <p class="flecha">Miercoles 29 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -248,7 +258,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos diciembre no">
         <p class="flecha">Jueves 30 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -288,7 +298,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos diciembre no">
         <p class="flecha">Viernes 31 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -328,7 +338,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Sabado 1 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -373,7 +383,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Domingo 2 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -419,7 +429,7 @@
  
     </div>
 
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Lunes 3 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -464,7 +474,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Martes 4 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -509,7 +519,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Miercoles 5 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -554,7 +564,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Jueves 6 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -599,7 +609,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Viernes 7 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -644,7 +654,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Sábado 8 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -689,7 +699,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Domingo 9 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -734,7 +744,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Lunes 10 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -779,7 +789,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Martes 11 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -824,7 +834,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Miércoles 12 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -869,7 +879,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Jueves 13 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -914,7 +924,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Viernes 14 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -959,7 +969,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos">
+    <div class="grupo_datos enero">
         <p class="flecha">Sábado 15 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -997,6 +1007,51 @@
                    <td>7 pm</td>
                    <td>Salió</td>
                    <td>44</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+    </div>
+    <div class="grupo_datos enero">
+        <p class="flecha">Domingo 16 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>92</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>24</td>
+                </tr>
+                 <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>04</td>
+                </tr> -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>78</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>43</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>17</td>
                    <td class="col_celda"> <span class="bola_B">Bola</span> </td>
                </tr>
                
