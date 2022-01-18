@@ -23,8 +23,8 @@
              <span class="close"><i class="far fa-times-circle"></i></span>
              <li><a href="index.php">Inicio</a></li>
              <li><a href="#videos">Videos</a></li>
-             <li><a href="#">Sección_3</a></li>
-             <li><a href="#">Sección_4</a></li>
+             <li><a href="#">Mi blog</a></li>
+             <li><a href="#">Contácto</a></li>
          </ul>
          <div class="hamburguesa"><i class="fas fa-bars"></i></div>
        </nav>
