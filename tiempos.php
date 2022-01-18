@@ -1058,6 +1058,51 @@
         </div>
  
     </div>
+    <div class="grupo_datos enero">
+        <p class="flecha">Lunes 17 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>81</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>49</td>
+                </tr>
+                 <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>04</td>
+                </tr> -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>25</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>02</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>95</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+    </div>
 
    <div class="instante">
        <p>Para ver los resultados al instánte, puedes pinchar en los botónes <a href="https://www.jps.go.cr/productos/nuevos-tiempos">Tica</a> o <a href="https://www.facebook.com/LottoDiaria">Nica</a>.

@@ -49,6 +49,12 @@
 }
 }
 @media(max-width:576px){
+.anim_sect{
+    width:100%
+}
+ .span{
+     font-size: 10px;
+ }
  .article{
      width:100%
  }

@@ -4,13 +4,27 @@
 
 
         <section class="contenedor">
+        <div class="h_text">
+             <ul>
+                <li>Hola soy Rolando Rivera</li>
+                <li>Desarrollador Front-end</li>
+                <!-- <li>Freelance</li> -->
+                <li>Autodidacta.</li>
+             </ul>
+             <ul class="ul_dos">
+                <li>Construimos tu página/sitio web.</li>
+                <li>Conocimientos avanzados de las tecnologías HTML, CSS, Javascript, PHP entre otras..</li>
+                <li>Quieres una página web?.</li>
+                <li> <a href="https://www.facebook.com/rolandoRivera85">Contáctame</a>.</li>
+             </ul>
+         </div>
           <h2>Mis Proyectos</h2>
           <div class="proyectos">
               <article class="article">
                 <figure class="figure">
                    <a href="tiempos.php"> <img src="imagenes/page_tiempos.png" alt=""></a>
                 </figure>
-                <p><a href="tiempos.php">Consulta los resultados de los Nuevos tiempos.</a></p>
+                <p><a href="tiempos.php">Resultádo de los Nuevos tiempos.</a></p>
               </article>
               <article class="article">
                 <figure class="figure">
@@ -76,6 +90,16 @@
                    <a href="paginas/tiempos/index.php"> <img src="imagenes/heroku.png" alt=""></a>
                 </figure>
               </article>
+
+          </div>
+
+          <!-- ANIMACIÓNES CSS -->
+          <div class="animaciones">
+             <h2>Animaciónes css.</h2>
+             <section class="anim_sect">
+                <p class="anim_p">--</p>
+             </section>
+             <!-- ******************* -->
 
           </div>
         </section>
