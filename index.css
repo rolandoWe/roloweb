@@ -29,7 +29,7 @@ body{
     display:flex;
     align-items: center;
     justify-content: space-around;
-    background: rgb(0, 0, 200);
+    background: rgb(0, 0, 59);
     z-index: 3;
     transition: .5s;
 }
@@ -40,11 +40,15 @@ body{
     border-radius: 20px;
     font-size: 25px;
     text-align: center;
-    line-height: 50px;
+    line-height: 44px;
     font-weight: bold;
+    border:solid transparent 1px
+
 }
 .logo:Hover{
-    background:rgb(1, 18, 150) ;
+    /* background:rgb(1, 18, 150) ; */
+    border:solid rgb(255, 255, 255,.2) 1px
+
 }
 .logo,.ul{
     margin: 0;
@@ -56,12 +60,12 @@ body{
 
 }
 .logo span{
-    color:rgb(0, 0, 59);
+    color:rgba(255, 255, 255, 0.4);
     font-size: 20px;
     font-weight: bold;
     font-family: "Quantico";
 
-    text-shadow: 1px 1px 2px white;
+    text-shadow: 1px 1px 2px rgb(0, 4, 112);
 }
 .ul{
     width:60%;
@@ -96,12 +100,13 @@ body{
     /* background: rgb(232, 250, 214,.2); */
     text-decoration: none;
     padding:6px 10px;
-    border-radius: 5px;
+    border-radius: 4px;
     color:rgb(255, 255, 255,.9);
     font-weight:600;
+    border:solid rgb(255, 255, 255,.2) 1px
 }
 .ul li a:hover{
-    background: rgba(1, 7, 78, 0.4);
+    background: rgba(0, 2, 15, 0.4);
 
 }
 .hamburguesa{
@@ -191,7 +196,7 @@ body{
     /* margin: 5px; */
     display: flex;
     flex-wrap: wrap;
-    background: rgba(0, 0, 59, 0.9);
+    /* background: rgba(0, 0, 59, 0.9); */
     border-radius: 5px;
 }
 .h_text ul li{
@@ -199,10 +204,11 @@ body{
     width:100%;
     margin: 2px 0;
     list-style: inside;
-    font-size: 18px;
+    font-size: 20px;
     font-style: italic;
+    font-weight: bold;
     /* text-shadow: 0 0 2px white; */
-    color:rgb(255, 255, 255)
+    color:rgb(0, 0, 59)
 }
 .h_text ul:last-child{
     width:50%;
@@ -222,7 +228,7 @@ body{
     padding-left: 10px;
 }
 .h_text ul:last-child a{
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 59);
     /* text-decoration: none; */
     font-weight: bold;
 }
