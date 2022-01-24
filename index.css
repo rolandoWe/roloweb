@@ -190,6 +190,27 @@ body{
     justify-content: space-around;
     /* margin-bottom: 5px; */
 }
+.h_text ul:first-child li{
+    /* border:solid red 1px; */
+    width:75%
+
+}
+.ul_img{
+    width:100px;
+    height:100px;
+    /* border:solid black 1px; */
+    border-radius:50%;
+    overflow: hidden;
+    position: absolute;
+    top:25px;
+    right:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ul_img img{
+    width:150%
+}
 .h_text ul{
     width:45%;
     padding: 5px;
@@ -198,6 +219,7 @@ body{
     flex-wrap: wrap;
     /* background: rgba(0, 0, 59, 0.9); */
     border-radius: 5px;
+    position: relative;
 }
 .h_text ul li{
     /* background: lemonchiffon; */

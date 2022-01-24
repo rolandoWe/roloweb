@@ -47,6 +47,9 @@
 .h_text ul,.h_text ul:last-child{
     width:100%
 }
+.ul_img{
+    top:0
+}
 }
 @media(max-width:576px){
 .anim_sect{
@@ -60,6 +63,15 @@
  }
  .article p{
      padding: 10px;
+ }
+ .h_text ul:first-child li{
+     width:80%
+ }
+ .ul_img{
+     right: 0;
+     top:10px;
+     height:80px;
+     width:80px
  }
  .footer p a{
      font-size: 18px;

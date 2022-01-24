@@ -4,20 +4,7 @@
 
 
         <section class="contenedor">
-        <div class="h_text">
-             <ul>
-                <li>Hola soy Rolando Rivera</li>
-                <li>Desarrollador Front-end</li>
-                <!-- <li>Freelance</li> -->
-                <li>Autodidacta.</li>
-             </ul>
-             <ul class="ul_dos">
-                <li>Construimos tu página/sitio web.</li>
-                <li>Conocimientos avanzados de las tecnologías HTML, CSS, Javascript, PHP entre otras..</li>
-                <li>Quieres una página web?.</li>
-                <li> <a href="https://www.facebook.com/rolandoRivera85">Contáctame</a>.</li>
-             </ul>
-         </div>
+
           <h2>Mis Proyectos</h2>
           <div class="proyectos">
               <article class="article">
@@ -103,6 +90,23 @@
 
           </div>
         </section>
+        <div class="h_text">
+             <ul>
+                <li>Hola soy Rolando Rivera</li>
+                <li>Desarrollador Front-end</li>
+                <!-- <li>Freelance</li> -->
+                <li>Autodidacta.</li>
+                <div class="ul_img">
+                   <img src="imagenes/rolando2.png" alt="">
+                </div>
+             </ul>
+             <ul class="ul_dos">
+                <li>Construimos tu página/sitio web.</li>
+                <li>Conocimientos avanzados de las tecnologías HTML, CSS, Javascript, PHP entre otras..</li>
+                <li>Quieres una página web?.</li>
+                <li> <a href="https://www.facebook.com/rolandoRivera85">Contáctame</a>.</li>
+             </ul>
+      </div>
 <!-- <?php include("template/videos.php") ?> -->
 <!-- <?php include("template/header.php") ?> -->
 <?php include("template/pie.php") ?>
