@@ -1553,6 +1553,186 @@
         </div>
  
     </div>
+    <div class="grupo_datos enero">
+        <p class="flecha">Viernes 28 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>94</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>31</td>
+                </tr>
+                  <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>48</td>
+                  </tr>  -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>17</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>95</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>38</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+    </div>
+    <div class="grupo_datos enero">
+        <p class="flecha">Sábado 29 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>88</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>41</td>
+                </tr>
+                   <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>69</td>
+                  </tr>  
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>75</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>86</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>05</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+    </div>
+    <div class="grupo_datos enero">
+        <p class="flecha">Domingo 30 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>15</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>05</td>
+                </tr>
+                   <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>69</td>
+                  </tr>   -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>00</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>53</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>23</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+    </div>
+    <div class="grupo_datos enero">
+        <p class="flecha">Lunes 31 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>51</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>63</td>
+                </tr>
+                   <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>69</td>
+                  </tr>   -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>68</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>23</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>17</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+    </div>
 
 
    <? include("tiemXmes/tiemEner2022.php") ?>
