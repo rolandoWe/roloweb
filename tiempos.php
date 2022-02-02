@@ -1,18 +1,18 @@
 
 <?php include("template/cabecera.php") ?>
  <div class="contenedor_tiempos">
-    <h3>Resultados</h3>
+    <h3>Resultado de los Nuevos Tiempos Tica y Nica.</h3>
     <ul class="ull">
         <li class="ver_mes">Ver por mes <i class="fas fa-chevron-circle-down"></i> </li>
           <ul class="sub_ul">
+             <li><a href="#" class="febrero2022 mes">Febrero 2022</a></li>
              <li><a href="#" class="enero2022 mes">Enero 2022</a></li>
              <li><a href="#" class="diciembre2021 mes">Diciembre 2021</a></li>
           </ul>
     </ul>
 
 
-    <p>Si eres un aficionado a los juegos de Azár tales como Lotto Nicaraguense o Nuevos Tiempos de la Junta de Protección Social, éste es el lugar ideal para consultar los ultimos resultados de los numeros ganadores.</p>
-    <h2> 🍀 MUCHA SUERTE.. 🍀</h2>
+    <!-- <h2> 🍀 MUCHA SUERTE.. 🍀</h2> -->
     <div class="grupo_datos diciembre no">
         <p class="flecha">Viernes 24 de Diciembre 2021<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
@@ -337,7 +337,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Sabado 1 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -382,7 +382,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Domingo 2 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -428,7 +428,7 @@
  
     </div>
 
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Lunes 3 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -473,7 +473,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Martes 4 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -518,7 +518,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Miercoles 5 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -563,7 +563,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Jueves 6 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -608,7 +608,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Viernes 7 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -653,7 +653,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Sábado 8 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -698,7 +698,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Domingo 9 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -743,7 +743,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Lunes 10 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -788,7 +788,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Martes 11 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -833,7 +833,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Miércoles 12 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -878,7 +878,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Jueves 13 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -923,7 +923,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Viernes 14 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -968,7 +968,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Sábado 15 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1013,7 +1013,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Domingo 16 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1058,7 +1058,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Lunes 17 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1103,7 +1103,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Martes 18 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1148,7 +1148,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Miércoles 19 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1193,7 +1193,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Jueves 20 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1238,7 +1238,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Viernes 21 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1283,7 +1283,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Sábado 22 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1328,7 +1328,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Domingo 23 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1373,7 +1373,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Lunes 24 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1418,7 +1418,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Martes 25 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1463,7 +1463,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Miércoles 26 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1508,7 +1508,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Jueves 27 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1553,7 +1553,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Viernes 28 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1598,7 +1598,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Sábado 29 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1643,7 +1643,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Domingo 30 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1688,7 +1688,7 @@
         </div>
  
     </div>
-    <div class="grupo_datos enero">
+    <div class="grupo_datos enero no">
         <p class="flecha">Lunes 31 de Enero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1735,7 +1735,8 @@
     </div>
 
 
-   <? include("tiemXmes/tiemEner2022.php") ?>
+
+   <?php include("tiemXmes/tiemFebrero2022.php") ?>
 
    <div class="instante">
        <p>Para ver los resultados al instánte, puedes pinchar en los botónes <a href="https://www.jps.go.cr/productos/nuevos-tiempos">Tica</a> o <a href="https://www.facebook.com/LottoDiaria">Nica</a>.

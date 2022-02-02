@@ -16,7 +16,7 @@
     left:0;
     background: rgb(0, 0, 200);
     flex-direction: column;
-    z-index: 2;
+    z-index: 100;
     transition: .5s;
     transform: translateY(-200%);
 }

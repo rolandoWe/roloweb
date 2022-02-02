@@ -1,27 +1,19 @@
-/* *{
-    margin: 0 auto;
-    padding: 0;
-    max-width: 1100px;
-} */
-/* body{
-    background: darkblue;
-    font-family: 'public sans';
-} */
+
 .contenedor_tiempos{
     position: relative;
     width:100%;
     min-height: 100px;
-    /* height:100vh; */
-     /* overflow-y: scroll; */
     padding: 50px 0 20px;
-    margin: 20px auto;
+    margin: 5px auto;
     background: rgb(0, 8, 95);
 }
 /* AQUI TRABAJAMOS CON EL BOTÓN <<VER POR MES>> */
 .ull{
     position: absolute;
-    top:60px;
-    right:5%
+    top:100px;
+    right:1%;
+    width:200px;
+    z-index: 50;
 }
 .ull li{
     list-style: none;
@@ -37,25 +29,24 @@ padding: 4px;
 color:black
 }
 .sub_ul{
-    /* background: rgb(255, 1, 1); */
     padding: 0px;
     height:0px;
     overflow:hidden ;
     transition: .4s;
 }
 .ver_sub_ul{
-    height:90px
+    padding: 2px;
+    height:110px;
+    background: rgb(0, 8, 95);
 }
 .sub_ul li a:hover{
     background: rgba(255, 255, 255, 0.8);
 }
-
 .sub_ul li{
 margin: 3px 0;
-
 }
 .ver_mes{
-    background: rgb(255, 255, 255,.8);
+    background: rgb(255, 255, 255,.9);
     height:30px;
     /* padding: 5px; */
     text-align: center;
@@ -70,9 +61,7 @@ margin: 3px 0;
     color:rgb(0, 8, 95);
     font-size: 20px;
 }
-/* .ver_mes:hover .sub_ul{
-    height:80px;
-} */
+
 .x_ul{
     display: none;
     height:0px;
@@ -80,12 +69,14 @@ margin: 3px 0;
 }
 /* AQUI TRABAJAMOS CON EL <<CONTENEDOR_TIEMPOS>> */
 .contenedor_tiempos h3{
-    text-align: center;
+    text-align: left;
     font-size: 30px;
-    padding: 10px 0;
+    padding: 10px 5px;
+    margin-bottom: 30px;
     width:100%;
-    background: rgb(255, 1, 1,.5);
-    color: white;
+    background: rgba(255, 255, 255, 0.8);
+    color:rgb(0, 8, 95);
+
 }
 .contenedor_tiempos h2{
     color:white;
@@ -93,12 +84,7 @@ margin: 3px 0;
     width:80%;
     text-align: center;
 }
-.contenedor_tiempos>p{
-    font-size: 25px;
-    padding: 5px;
-    color: rgb(255, 255, 255);
-    width:60%;
-}
+/*  */
 .contenedor_tiempos h2{
     font-size: 30px;
     text-shadow: 0 0 5px white;
@@ -147,6 +133,7 @@ margin: 3px 0;
     font-size: 20px;
     line-height: 20px;
     cursor: pointer;
+    background: rgb(0, 8, 95);
 }
 .flecha i{
     margin-left: 20px;
@@ -170,8 +157,8 @@ margin: 3px 0;
 }
 .grupo_datos> p{
     padding: 2px 0;
-    background: rgb(255, 1, 1,.5);
-    color:white;
+    background: rgba(255, 255, 255, 0.8);
+    color:rgb(0, 8, 95);
     text-align: left;
     padding-left: 5px;
     position: relative;
@@ -276,7 +263,6 @@ margin: 3px 0;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    /* justify-content: space-around; */
 }
 .jug_num p{
     width:50%;
@@ -286,7 +272,6 @@ margin: 3px 0;
     color:blue
 }
 .jug_num >a{
-    /* border:solid red 1px; */
     width:50%
 }
 .jug_num img{
@@ -296,6 +281,19 @@ margin: 3px 0;
 @media (max-width:768px){
     .jug_num{
         width:100%
+    }
+    .contenedor_tiempos h3{
+        font-size:25px
+    }
+    .ull{
+        z-index: 50;
+        width:150px;
+    }
+    .ull li,.ull a{
+        font-size: 20px;
+    }
+    .ver_sub_ul{
+        height:130px
     }
 }
 @media (max-width:576px){
@@ -309,9 +307,14 @@ margin: 3px 0;
     font-size: 20px;
 }
 .contenedor_tiempos h3{
-    font-size: 29px;
+    font-size: 22px;
     text-align: left;
 }
+.ull{
+    right:10%;
+    top:110px
+}
+
 .grupo_datos,.datos{
     width:100%
 }

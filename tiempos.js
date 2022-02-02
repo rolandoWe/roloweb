@@ -6,10 +6,8 @@ for(let i=0;i<flecha.length;i++){
         for(let x=0;x<dato.length;x++){
             if(i==x){
                 dato[x].classList.toggle("ver_dato")
-                // flecha[i].classList.toggle("flechaR")
             }else{
                 dato[x].classList.remove("ver_dato")
-                // flecha[i].classList.toggle("flechaR")
             }
         }
     })
@@ -33,6 +31,11 @@ function ver(v){
     }else if(v.className=="enero2022 mes"){
         reT()
         document.querySelectorAll(".enero").forEach(function(h){
+            h.classList.remove("no")
+        }) 
+    }else if(v.className=="febrero2022 mes"){
+        reT()
+        document.querySelectorAll(".febrero").forEach(function(h){
             h.classList.remove("no")
         }) 
     }
