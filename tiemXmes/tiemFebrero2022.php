@@ -71,7 +71,7 @@
                 <tr>
                     <td>9 pm</td>
                     <td>Salió</td>
-                    <td>--</td>
+                    <td>99</td>
                 </tr>
             </table>
             <p>Costa Rica</p>
@@ -85,8 +85,8 @@
                <tr>
                    <td>7 pm</td>
                    <td>Salió</td>
-                   <td>--</td>
-                   <td class="col_celda"> <span class="bola_B">--</span> </td>
+                   <td>45</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
                </tr>
                
             </table>
