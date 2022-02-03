@@ -11,9 +11,21 @@
 .ull{
     /* position: absolute; */
     width:200px;
+    margin: 5px auto;
 }
 .ull li{
     list-style: none;
+}
+.ull>li{
+    position: relative;
+    background: rgb(0, 4, 51);
+
+}
+.ull li i{
+    position: absolute;
+    right: 3px;
+    top:3px
+
 }
 .ull li a{
 background: white;
@@ -54,7 +66,7 @@ margin: 3px 0;
     transition: .3s;
 }
 .ver_mes:hover{
-    background: rgb(0, 8, 95);
+    /* background: rgb(0, 8, 95); */
     border:solid rgb(255, 255, 255,.9) 2px
 
 }
@@ -287,8 +299,8 @@ margin: 3px 0;
         font-size:25px
     }
     .ull{
-        z-index: 0;
-        width:150px;
+        /* z-index: 0; */
+        width:250px;
     }
     .ull li,.ull a{
         font-size: 20px;
