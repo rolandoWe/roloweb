@@ -16,15 +16,15 @@
 .ull li{
     list-style: none;
 }
-.ull>li{
+/* .ull>li{
     position: relative;
     background: rgb(0, 4, 51);
 
-}
+} */
 .ull li i{
     position: absolute;
     right: 3px;
-    top:3px
+    top:4px
 
 }
 .ull li a{
@@ -55,24 +55,27 @@ color:black
 margin: 3px 0;
 }
 .ver_mes{
-    background: rgb(0, 8, 95);
+    position: relative;
+    background: rgb(255, 255, 255,.9);
     height:30px;
     /* padding: 5px; */
     text-align: center;
+    line-height: 30px;
     font-size: 22px;
     border-radius: 5px;
     cursor: pointer;
-    border:solid rgb(255, 255, 255,.5) 2px;
+    /* border:solid rgb(255, 255, 255,.5) 2px; */
     transition: .3s;
 }
 .ver_mes:hover{
-    /* background: rgb(0, 8, 95); */
-    border:solid rgb(255, 255, 255,.9) 2px
+    background: rgba(167, 174, 248);
+    /* border:solid rgba(2, 51, 247, 0.9) 2px */
 
 }
 .ver_mes,.ver_mes i{
-    color:rgb(255, 255, 255);
+    color:rgb(0,8,95);
     font-size: 20px;
+    font-weight: bold;
 }
 
 .x_ul{

@@ -3,7 +3,7 @@
  <div class="contenedor_tiempos">
     <h3>Resultado de los Nuevos Tiempos Tica y Nica.</h3>
     <ul class="ull">
-        <li class="ver_mes">Ver por mes <i class="fas fa-chevron-circle-down"></i> </li>
+        <li class="ver_mes">Ver Mes <i class="fas fa-chevron-circle-down"></i> </li>
           <ul class="sub_ul">
              <li><a href="#" class="febrero2022 mes">Febrero 2022</a></li>
              <li><a href="#" class="enero2022 mes">Enero 2022</a></li>
