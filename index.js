@@ -47,3 +47,35 @@ function animarSpan(){
     }
 }
 animarSpan()
+// CUENTA REGRESIVA AÑO NUEVO*****************
+let dia=document.querySelector(".dia");
+let hora=document.querySelector(".hora");
+let minuto=document.querySelector(".minuto");
+let segundo=document.querySelector(".segundo");
+
+let año=new Date("1 Jan 2023 00:00:00").getTime()
+function crono(){
+    let fechaACtual=new Date().getTime()
+    let actual=año-fechaACtual;
+
+    let segundos=1000;
+    let minutos=segundos*60;
+    let horas=minutos*60;
+    let dias=horas*24;
+
+    let diaAct=Math.floor(actual/(dias));
+    let horaAct=Math.floor((actual%(dias))/(horas));
+    let minAct=Math.floor((actual% (horas))/(minutos));
+    let secAct=Math.floor((actual%(minutos))/segundos)
+    if(secAct<10){secAct="0"+secAct}else{secAct};
+    if(minAct<10){minAct="0"+minAct}else{minAct};
+
+dia.innerHTML=diaAct;
+hora.innerHTML=horaAct;
+minuto.innerHTML=minAct;
+segundo.innerHTML=secAct
+
+}
+crono()
+setInterval(crono,1000)
+

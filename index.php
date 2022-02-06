@@ -4,8 +4,22 @@
 
 
         <section class="contenedor">
-
+        <div class="ano">
+             <div class="fecha">
+                 <p class="dia">--</p>
+             </div>
+             <div class="fecha">
+                 <p class="hora">--</p>
+             </div>
+             <div class="fecha">
+                 <p class="minuto">--</p>
+             </div>
+             <div class="fecha">
+                 <p class="segundo">--</p>
+             </div>
+         </div>
           <h2>Mis Proyectos</h2>
+
           <div class="proyectos">
               <article class="article">
                 <figure class="figure">
