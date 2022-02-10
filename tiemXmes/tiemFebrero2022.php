@@ -273,3 +273,138 @@
         </div>
  
 </div>
+<div class="grupo_datos febrero">
+        <p class="flecha">Lunes 7 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>47</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>11</td>
+                </tr>
+                  <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>96</td>
+                </tr>  -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>86</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>21</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>93</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
+<div class="grupo_datos febrero">
+        <p class="flecha">Martes 8 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>51</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>00</td>
+                </tr>
+                   <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>79</td>
+                </tr>  
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>86</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>93</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>83</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
+<div class="grupo_datos febrero">
+        <p class="flecha">Miércoles 9 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>04</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>92</td>
+                </tr>
+                   <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>79</td>
+                </tr>   -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>71</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>65</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>99</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
