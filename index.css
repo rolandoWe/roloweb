@@ -5,15 +5,23 @@
     max-width: 1200px;
     box-sizing: border-box;
 }
+:root{
+    --dorado:rgb(190, 130, 20);
+    --cafe:rgb(10, 10, 10);
+    --gris:rgb(15, 15, 15);
+    --blanco:rgb(236, 236, 236);
+    --naranja:rgb(255, 165, 0);
+}
+
 body{
-    background: rgb(255, 165, 0);
+    background: var(--naranja);
     font-family: 'public sans';
     /* font-weight: bold; */
 }
 .main{
     width:100%;
 
-    background:rgb(223, 223, 223);
+    background:rgb(15, 15, 15);
     /* margin-bottom: 20px; */
     padding-bottom: 20px ;
     box-shadow: 0 0 25px 5px rgb(0, 8, 47);
@@ -29,7 +37,7 @@ body{
     display:flex;
     align-items: center;
     justify-content: space-between;
-    background: rgb(0, 0, 59);
+    background: rgb(10, 10, 10);
     z-index: 3;
     transition: .5s;
 }
@@ -47,20 +55,20 @@ body{
 }
 .logo:Hover{
     /* background:rgb(1, 18, 150) ; */
-    border:solid rgb(255, 255, 255,.2) 1px
+    border:solid var(--dorado) 1px
 
 }
 .logo,.ul{
     margin: 0;
 }
 .logo a{
-    color:rgba(255, 255, 255);
+    color:var(--naranja);
     text-decoration: none;
     font-family: "Quantico";
 
 }
 .logo span{
-    color:rgba(255, 255, 255, 0.4);
+    color:var(--dorado);
     font-size: 20px;
     font-weight: bold;
     font-family: "Quantico";
@@ -89,7 +97,7 @@ body{
 .close i{
     font-size: 30px;
    line-height: 30px;
-   color:rgb(255, 255, 255,.7)
+   color:var(--naranja)
 }
 .ul li{
     float: left;
@@ -102,12 +110,13 @@ body{
     text-decoration: none;
     padding:6px 10px;
     border-radius: 4px;
-    color:rgb(255, 255, 255,.9);
+    color:var(--naranja);
     font-weight:600;
-    border:solid rgb(255, 255, 255,.2) 1px
+    border:solid rgb(190, 130, 20,.2) 1px
 }
 .ul li a:hover{
-    background: rgba(0, 2, 15, 0.4);
+    border:solid rgb(190, 130, 20,.6) 1px
+
 
 }
 .hamburguesa{
@@ -133,11 +142,13 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-image:linear-gradient( rgba(0, 0, 59, 0.9)0%, rgb(0, 0, 59,.9)50%, rgb(0, 0, 59,.9)100%), url("imagenes/fondo_header.png");
-    background-size:cover;
+    background-color: var(--cafe);
+    /* background-image:linear-gradient( rgba(0, 0, 59, 0.9)0%, rgb(0, 0, 59,.9)50%, rgb(0, 0, 59,.9)100%), url("imagenes/fondo_header.png"); */
+    /* background-size:cover;
+
     background-repeat: no-repeat;
     background-position:center;
-    background-attachment: fixed;
+    background-attachment: fixed; */
 }
 .section{
     width:100%;
@@ -150,7 +161,7 @@ body{
     width:100%;
     text-align: center;
     font-size: 22px;
-    color:rgba(255, 255, 255, 0.9)
+    color:var(--naranja)
 }
 .section p{
     text-align: center;
@@ -159,28 +170,28 @@ body{
     font-size: 18px;
     letter-spacing: 4px;
     font-weight: bold;
-    color: rgba(255, 255, 255, 0.9);
+    color: var(--naranja);
 }
 .section figure{
     position: relative;
     width:120px;
     height:120px;
     overflow: hidden;
-    /* border:solid red 1px; */
+    border:solid rgb(190, 130, 20,.2) 1px;
     border-radius: 50%;
     display: flex;
     align-items:center;
     justify-content: center;
 }
-.section figure::after{
+/* .section figure::after{
     content: "";
     width:100%;
     height:100%;
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(0, 30, 255, 0.3);
-}
+    background: rgba(190, 130, 20, 0.1);
+} */
 
 .section figure img{
     width:150%
@@ -282,7 +293,7 @@ body{
     position: relative;
 }
 .fecha p{
-    color:rgb(2, 124, 255);
+    color:rgb(111, 255, 0,.8);
     line-height: 30px;
     text-align: center;
     font-size: 15px;
@@ -305,7 +316,7 @@ body{
     text-align: center;
     font-size: 15px;
     /* font-weight: bold; */
-    color:rgb(255, 255, 255,.5)
+    color:rgb(190, 130, 20,.5)
 }
 .fecha:nth-child(1)::after{
     content: "Dia";
@@ -321,7 +332,7 @@ body{
 }
 .contenedor h2{
     text-align: center;
-    color:rgb(0, 0, 0,.7);
+    color:rgb(190, 130, 20,.9);
     /* background: rgb(30, 36, 210,.2); */
     padding: 20px 0;
     margin: 5px 0;
@@ -345,7 +356,7 @@ body{
     padding:5px 0
 }
 article a{
-    color:rgb(2, 2, 175)
+    color:rgb(190, 130, 20)
 }
 .figure{
     width:100%;
@@ -369,9 +380,9 @@ article a{
     height:100px;
     margin:10px auto;
     /* border:solid black 1px; */
-    background: rgb(128, 128, 128,.1);
+    background: rgba(255, 255, 255);
     border-radius: 5px;
-    box-shadow: 2px 2px 5px black;
+    box-shadow: 2px 2px 5px rgb(190, 130, 20);
 }
 .art_tecno p{
     width:100%;
