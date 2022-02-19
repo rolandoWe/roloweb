@@ -8,9 +8,10 @@
 :root{
     --dorado:rgb(190, 130, 20);
     --cafe:rgb(10, 10, 10);
-    --gris:rgb(15, 15, 15);
+    --gris:rgb(209, 209, 209);
     --blanco:rgb(236, 236, 236);
-    --naranja:rgb(255, 165, 0);
+    --naranja:rgb(221, 191, 0);
+    --naranja_2:rgb(221, 191, 0,.5);
 }
 
 body{
@@ -21,7 +22,7 @@ body{
 .main{
     width:100%;
 
-    background:rgb(15, 15, 15);
+    background:var(--gris);
     /* margin-bottom: 20px; */
     padding-bottom: 20px ;
     box-shadow: 0 0 25px 5px rgb(0, 8, 47);
@@ -177,7 +178,7 @@ body{
     width:120px;
     height:120px;
     overflow: hidden;
-    border:solid rgb(190, 130, 20,.2) 1px;
+    border:solid var(--naranja_2) 1px;
     border-radius: 50%;
     display: flex;
     align-items:center;
@@ -246,14 +247,14 @@ body{
 }
 .h_text ul:last-child{
     width:50%;
-    border-top: rgb(0, 0, 180,.8) solid 2px;
-    border-left: rgb(0, 0, 180,.8) solid 2px;
+    border-top: var(--cafe) solid 2px;
+    border-left: var(--cafe) solid 2px;
     border-right: transparent solid 2px;
 }
 .h_text ul:first-child{
     /* width:50%; */
-    border-top: rgb(0, 0, 180,.8) solid 2px;
-    border-right: rgb(0, 0, 180,.8) solid 2px;
+    border-top: var(--cafe) solid 2px;
+    border-right: var(--cafe) solid 2px;
     border-left: transparent solid 2px;
 }
 .h_text ul:last-child li{
@@ -332,7 +333,7 @@ body{
 }
 .contenedor h2{
     text-align: center;
-    color:rgb(190, 130, 20,.9);
+    color:var(--cafe);
     /* background: rgb(30, 36, 210,.2); */
     padding: 20px 0;
     margin: 5px 0;
@@ -356,7 +357,7 @@ body{
     padding:5px 0
 }
 article a{
-    color:rgb(190, 130, 20)
+    color:var(--cafe)
 }
 .figure{
     width:100%;
@@ -382,7 +383,7 @@ article a{
     /* border:solid black 1px; */
     background: rgba(255, 255, 255);
     border-radius: 5px;
-    box-shadow: 2px 2px 5px rgb(190, 130, 20);
+    box-shadow: 2px 2px 5px var(--cafe);
 }
 .art_tecno p{
     width:100%;
@@ -453,7 +454,7 @@ article a{
 .footer{
     width:100%;
     min-height: 200px;
-    background: rgb(0, 0, 180);
+    background: var(--cafe);
     display: grid;
     align-content: center;
     margin-top: 20px;
@@ -464,11 +465,11 @@ article a{
     /* background: coral; */
     text-align: center;
     font-size: 20px;
-    color: rgb(255, 255, 255);
+    color: var(--naranja);
 
 }
 .footer a{
-    color: rgb(255, 255, 255);
+    color: var(--naranja);
     /* text-shadow: 0 0 5px white; */
     font-weight: bold;
     font-style: italic;
