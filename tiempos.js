@@ -38,6 +38,11 @@ function ver(v){
         document.querySelectorAll(".febrero").forEach(function(h){
             h.classList.remove("no")
         }) 
+    }else if(v.className=="marzo2022 mes"){
+        reT()
+        document.querySelectorAll(".marzo").forEach(function(h){
+            h.classList.remove("no")
+        }) 
     }
 }
 document.querySelector(".ver_mes").addEventListener("click",function(f){
