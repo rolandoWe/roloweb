@@ -2,7 +2,7 @@
 <!-- <p>probando</p> -->
 
 
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Martes 1 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -48,7 +48,7 @@
  
 </div>
 
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Miércoles 2 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -93,7 +93,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Jueves 3 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -138,7 +138,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Viernes 4 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -183,7 +183,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Sábado 5 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -228,7 +228,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Domingo 6 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -273,7 +273,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Lunes 7 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -318,7 +318,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Martes 8 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -363,7 +363,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Miércoles 9 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -408,7 +408,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Jueves 10 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -453,7 +453,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Viernes 11 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -498,7 +498,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Sábado 12 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -543,7 +543,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Domingo 13 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -588,7 +588,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Lunes 14 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -633,7 +633,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Martes 15 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -678,7 +678,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Miércoles 16 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -723,7 +723,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Jueves 17 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -768,7 +768,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Viernes 18 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -813,7 +813,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Sábado 19 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -858,7 +858,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Domingo 20 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -903,7 +903,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Lunes 21 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -948,7 +948,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Martes 22 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -993,7 +993,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Miércoles 23 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1038,7 +1038,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Jueves 24 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1083,7 +1083,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Viernes 25 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1128,7 +1128,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Sábado 26 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1173,7 +1173,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Domingo 27 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
@@ -1218,7 +1218,7 @@
         </div>
  
 </div>
-<div class="grupo_datos febrero">
+<div class="grupo_datos febrero no">
         <p class="flecha">Lunes 28 de Febrero 2022<i class="fas fa-chevron-circle-down"></i></p>
         <div class="datos">
             <p>Nicaragua</p>
