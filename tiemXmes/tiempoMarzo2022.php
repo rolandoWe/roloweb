@@ -134,3 +134,48 @@
         </div>
  
 </div>
+<div class="grupo_datos marzo">
+        <p class="flecha">Viernes 4 de Marzo 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>37</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>33</td>
+                </tr>
+                 <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>90</td>
+                </tr>      -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>89</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>77</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>23</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
