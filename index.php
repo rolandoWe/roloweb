@@ -29,6 +29,12 @@
               </article>
               <article class="article">
                 <figure class="figure">
+                   <a href="https://rolandowe.github.io/registroFacturas/"> <img src="imagenes/formulario.png" alt=""></a>
+                </figure>
+                <p><a href="https://rolandowe.github.io/registroFacturas/">Formulario de ventas de productos.</a></p>
+              </article>
+              <article class="article">
+                <figure class="figure">
                    <a href="paginas/netflix/index.php"> <img src="paginas/netflix/imagenes/page_netflix.png" alt=""></a>
                 </figure>
                 <p><a href="paginas/netflix/index.php">Página tipo Netflix</a></p>
