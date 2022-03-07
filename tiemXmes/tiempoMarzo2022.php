@@ -179,3 +179,93 @@
         </div>
  
 </div>
+<div class="grupo_datos marzo">
+        <p class="flecha">Sábado 5 de Marzo 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>45</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>80</td>
+                </tr>
+                 <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>23</td>
+                </tr>      
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>54</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>28</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>94</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
+<div class="grupo_datos marzo">
+        <p class="flecha">Domingo 6 de Marzo 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>52</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>82</td>
+                </tr>
+                 <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>23</td>
+                </tr>       -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>69</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>65</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>43</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
