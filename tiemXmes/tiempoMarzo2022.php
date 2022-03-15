@@ -449,3 +449,183 @@
         </div>
  
 </div>
+<div class="grupo_datos marzo">
+        <p class="flecha">Viernes 11 de Marzo 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>17</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>09</td>
+                </tr>
+                <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>99</td>
+                </tr>        -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>12</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>00</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>81</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
+<div class="grupo_datos marzo">
+        <p class="flecha">Sábado 12 de Marzo 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>73</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>70</td>
+                </tr>
+                <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>97</td>
+                </tr>        
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>67</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>13</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>42</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
+<div class="grupo_datos marzo">
+        <p class="flecha">Domingo 13 de Marzo 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>56</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>07</td>
+                </tr>
+                <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>97</td>
+                </tr>         -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>02</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>21</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>84</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
+<div class="grupo_datos marzo">
+        <p class="flecha">Lunes 14 de Marzo 2022<i class="fas fa-chevron-circle-down"></i></p>
+        <div class="datos">
+            <p>Nicaragua</p>
+            <table class="tabla">
+                <tr>
+                    <td>11 am</td>
+                    <td>Salió</td>
+                    <td>01</td>
+                </tr>
+                <tr>
+                    <td>3 pm</td>
+                    <td>Salió</td>
+                    <td>09</td>
+                </tr>
+                <!-- <tr>
+                    <td>6 pm</td>
+                    <td>Salió</td>
+                    <td>97</td>
+                </tr>         -->
+                <tr>
+                    <td>9 pm</td>
+                    <td>Salió</td>
+                    <td>46</td>
+                </tr>
+            </table>
+            <p>Costa Rica</p>
+            <table class="tabla">
+               <tr>
+                   <td>1 pm</td>
+                   <td>Salió</td>
+                   <td>95</td>
+                   <td class="col_celda"> <span class="bola_R">Bola</span> </td>
+               </tr>
+               <tr>
+                   <td>7 pm</td>
+                   <td>Salió</td>
+                   <td>92</td>
+                   <td class="col_celda"> <span class="bola_B">Bola</span> </td>
+               </tr>
+               
+            </table>
+        </div>
+ 
+</div>
