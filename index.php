@@ -29,6 +29,12 @@
               </article>
               <article class="article">
                 <figure class="figure">
+                   <a href="https://rolandowe.github.io/contadorAforo/"> <img src="imagenes/contadorAforo.png" alt=""></a>
+                </figure>
+                <p><a href="https://rolandowe.github.io/contadorAforo/">Contador de Aforo  de personas.</a></p>
+              </article>
+              <article class="article">
+                <figure class="figure">
                    <a href="https://rolandowe.github.io/registroFacturas/"> <img src="imagenes/formulario.png" alt=""></a>
                 </figure>
                 <p><a href="https://rolandowe.github.io/registroFacturas/">Formulario de ventas de productos.</a></p>
