@@ -14,14 +14,14 @@
     position: fixed;
     top: 0;
     left:0;
-    background: rgb(0, 0, 200);
+    background: rgb(0, 155, 255);
     flex-direction: column;
     z-index: 100;
     transition: .5s;
     transform: translateY(-200%);
 }
 .ul li{
-    background: rgb(238, 237, 248);
+    background: rgb(238, 237, 248,.1);
     width:100%;
     text-align: center;
 }
@@ -53,7 +53,7 @@
 .ano{
     top:-20px;
     right:35%;
-    background: rgb(0,0,255);
+    /* background: rgb(0,0,255); */
 }
 }
 @media(max-width:576px){
