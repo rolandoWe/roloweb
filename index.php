@@ -69,7 +69,7 @@
                 <figure class="figure">
                    <a href="https://rolandowe.github.io/nombreAleatorio/"> <img src="imagenes/generadorNombre.png" alt=""></a>
                 </figure>
-                <p><a href="https://rolandowe.github.io/nombreAleatorio/">Página tipo clinica</a></p>
+                <p><a href="https://rolandowe.github.io/nombreAleatorio/">Generador de nombre aleatorio.</a></p>
               </article>
              </div>
  
@@ -147,7 +147,7 @@
                 <!-- <li>Freelance</li> -->
                 <li>Autodidacta.</li>
                 <div class="ul_img">
-                   <img src="imagenes/rolando2.png" alt="">
+                   <img src="imagenes/roloCeleste.png" alt="">
                 </div>
              </ul>
              <ul class="ul_dos">
