@@ -5,7 +5,7 @@
     min-height: 100px;
     padding: 50px 0 20px;
     margin: 5px auto;
-    background: rgb(0, 8, 95);
+    background: rgb(0, 155, 255);
 }
 /* AQUI TRABAJAMOS CON EL BOTÓN <<VER POR MES>> */
 .ull{
@@ -85,12 +85,12 @@ margin: 3px 0;
 }
 /* AQUI TRABAJAMOS CON EL <<CONTENEDOR_TIEMPOS>> */
 .contenedor_tiempos h3{
-    text-align: left;
-    font-size: 30px;
+    text-align: center;
+    font-size: 25px;
     padding: 10px 5px;
     margin-bottom: 1px;
     width:100%;
-    background: rgba(255, 255, 255, 0.8);
+    background: rgb(0, 131, 218);
     color:rgb(0, 8, 95);
 
 }
