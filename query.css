@@ -29,7 +29,7 @@
     display: inline-block;
     width:90%;
     background: transparent;
-    color: black;
+    /* color: black; */
 }
 .ver_ul{
     transform: translateY(0);
