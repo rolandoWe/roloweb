@@ -64,11 +64,17 @@
      font-size: 10px;
  }
  .article{
-     width:100%
+     width:90%
  }
  .article p{
      padding: 10px;
  }
+ .figure{
+     height:250px
+ }
+.carousel-cell{
+height: 350px;
+}
  .h_text ul:first-child li{
      width:80%
  }

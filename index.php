@@ -18,39 +18,63 @@
                  <p class="segundo">--</p>
              </div>
          </div>
+
+
           <h2>Mis Proyectos</h2>
 
           <div class="proyectos">
-              <article class="article">
+          <div class="carousel" data-flickity='{ "freeScroll": true, "wrapAround": true  }'>
+             <div class="carousel-cell">
+             <article class="article">
                 <figure class="figure">
                    <a href="tiempos.php"> <img src="imagenes/page_tiempos.png" alt=""></a>
                 </figure>
                 <p><a href="tiempos.php">Resultádo de los Nuevos tiempos.</a></p>
               </article>
-              <article class="article">
+             </div>
+             <div class="carousel-cell">
+             <article class="article">
                 <figure class="figure">
                    <a href="https://rolandowe.github.io/contadorAforo/"> <img src="imagenes/contadorAforo.png" alt=""></a>
                 </figure>
-                <p><a href="https://rolandowe.github.io/contadorAforo/">Contador de Aforo  de personas.</a></p>
+                <p><a href="tiempos.php">Contador aforo de personas.</a></p>
               </article>
-              <article class="article">
+             </div>
+             <div class="carousel-cell">
+             <article class="article">
                 <figure class="figure">
                    <a href="https://rolandowe.github.io/registroFacturas/"> <img src="imagenes/formulario.png" alt=""></a>
                 </figure>
                 <p><a href="https://rolandowe.github.io/registroFacturas/">Formulario de ventas de productos.</a></p>
               </article>
-              <article class="article">
+             </div>
+             <div class="carousel-cell">
+             <article class="article">
                 <figure class="figure">
                    <a href="paginas/netflix/index.php"> <img src="paginas/netflix/imagenes/page_netflix.png" alt=""></a>
                 </figure>
                 <p><a href="paginas/netflix/index.php">Página tipo Netflix</a></p>
               </article>
-              <article class="article">
+             </div>
+             <div class="carousel-cell">
+             <article class="article">
                 <figure class="figure">
                    <a href="paginas/clinica/index.php"> <img src="imagenes/page_clinica.png" alt=""></a>
                 </figure>
                 <p><a href="paginas/clinica/index.php">Página tipo clinica</a></p>
               </article>
+             </div>
+             <div class="carousel-cell">
+             <article class="article">
+                <figure class="figure">
+                   <a href="https://rolandowe.github.io/nombreAleatorio/"> <img src="imagenes/generadorNombre.png" alt=""></a>
+                </figure>
+                <p><a href="https://rolandowe.github.io/nombreAleatorio/">Página tipo clinica</a></p>
+              </article>
+             </div>
+ 
+          </div>
+
           </div>
           <!-- *************************TECNOLOGÍAS********************************* -->
           <h2>Tecnologías.</h2>
