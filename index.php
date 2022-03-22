@@ -72,6 +72,14 @@
                 <p><a href="https://rolandowe.github.io/nombreAleatorio/">Generador de nombre aleatorio.</a></p>
               </article>
              </div>
+             <div class="carousel-cell">
+             <article class="article">
+                <figure class="figure">
+                   <a href="https://rolandowe.github.io/zodiacal/"> <img src="imagenes/zodiaco.png" alt=""></a>
+                </figure>
+                <p><a href="https://rolandowe.github.io/zodiacal/">Tu pronostico zodiacal.</a></p>
+              </article>
+             </div>
  
           </div>
 
