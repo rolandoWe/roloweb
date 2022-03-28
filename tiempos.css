@@ -5,7 +5,7 @@
     min-height: 100px;
     padding: 50px 0 20px;
     margin: 5px auto;
-    background: rgb(0, 155, 255);
+    background: rgb(229, 242, 252);
 }
 /* AQUI TRABAJAMOS CON EL BOTÓN <<VER POR MES>> */
 .ull{
@@ -45,8 +45,8 @@ color:black
 }
 .ver_sub_ul{
     padding: 2px;
-    height:110px;
-    background: rgb(0, 8, 95);
+    height:150px;
+    background: transparent;
 }
 .sub_ul li a:hover{
     background: rgba(255, 255, 255, 0.8);
@@ -117,7 +117,7 @@ margin: 3px 0;
     height:0px;
     position: relative;
     /* border:solid blue 1px; */
-    background-color: rgb(0, 0, 163);
+    background-color: rgb(76, 76, 250);
     border-radius: 10px;
     overflow: hidden;
     transition: .5s;
@@ -149,7 +149,12 @@ margin: 3px 0;
     font-size: 20px;
     line-height: 20px;
     cursor: pointer;
-    background: rgb(0, 8, 95);
+    background: rgb(247, 247, 248);
+    transition: .3s;
+}
+.flecha:hover{
+    background: rgb(204, 204, 240);
+
 }
 .flecha i{
     margin-left: 20px;
@@ -173,8 +178,8 @@ margin: 3px 0;
 }
 .grupo_datos> p{
     padding: 2px 0;
-    background: rgba(255, 255, 255, 0.8);
-    color:rgb(0, 8, 95);
+    /* background: rgba(255, 255, 255, 0.8); */
+    color:rgb(0, 9, 131);
     text-align: left;
     padding-left: 5px;
     position: relative;
@@ -195,7 +200,7 @@ margin: 3px 0;
     width: 100%;
 }
 .tabla tr{
-    background-color: rgb(219, 219, 219);
+    background-color: rgb(255, 255, 255);
 }
 .tabla td{
     text-align: center;
