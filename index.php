@@ -22,9 +22,9 @@
 
           <h2>Mis Proyectos</h2>
 
-          <div class="proyectos">
-          <div class="carousel" data-flickity='{ "freeScroll": true, "wrapAround": true  }'>
-             <div class="carousel-cell">
+           <div class="proyectos">
+            <div class="carousel" data-flickity='{ "freeScroll": true, "wrapAround": true  }'>
+              <div class="carousel-cell">
              <article class="article">
                 <figure class="figure">
                    <a href="tiempos.php"> <img src="imagenes/page_tiempos.png" alt=""></a>
@@ -81,7 +81,9 @@
               </article>
              </div>
  
-          </div>
+            </div>
+             <!-- <input type="button" value="ver mas" class="ver_mas"> -->
+             <button type="button" class="ver_mas"><a href="proyectos.php"> ver más</a></button>
 
           </div>
           <!-- *************************TECNOLOGÍAS********************************* -->
