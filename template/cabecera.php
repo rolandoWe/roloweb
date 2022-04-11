@@ -17,7 +17,9 @@
     <link rel="stylesheet" href="css/videos.css">
     <link rel="stylesheet" href="query.css">
     <link rel="stylesheet" href="tiempos.css">
-
+    <link rel="stylesheet" href="./paginas/proyectos/proyectos.css">
+    <!-- <link rel="" href="...imagenes/buho_corona.png" type="image/x-icon"> -->
+    <link rel="shortcut icon" href="imagenes/roloCeleste.png">
 </head>
 <body>
     <main class="main">
