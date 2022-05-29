@@ -14,7 +14,7 @@ body{
 .navbar{
     position: sticky;
     top: 0;
-    background-color: rgb(0, 0, 255);
+    background-color: rgb(255, 200, 50);
     z-index: 100;
 }
 .navbar-brand,.navbar-nav,.nav-item{
@@ -31,7 +31,7 @@ body{
     /* font-weight: bold; */
 }
 .navbar-nav a:hover{
-    background-color: rgb(0, 0, 207);
+    background-color: rgb(207, 152, 1);
     color: honeydew !important;
 }
 .navbar-brand{
@@ -72,7 +72,7 @@ body{
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    background-color: rgba(0, 0, 255);
+    background-color: rgba(255, 200, 50);
     padding: 10px 0;
 }
 .imagen{
@@ -149,7 +149,7 @@ content: "seg";
     font-weight: bold;
 }
 .dia::before,.hora::before,.minuto::before,.segundo::before{
-    color: rgb(255, 255, 255,.5);
+    color: rgb(255, 255, 255,.8);
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 }
 .social{
@@ -210,13 +210,6 @@ content: "seg";
     margin: 10px 0;
     padding:5px ;
     text-align: right;
-}
-.boton_proy button{
-    font-weight: bold;
-
-}
-.boton_proy a{
-    color:white
 }
 
 /* TECNOLOGIAS */
