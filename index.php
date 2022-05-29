@@ -32,7 +32,7 @@
      <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        <strong>Que es un Desarrollador Web?.</strong>
+        <strong class="text-secondary">Que es un Desarrollador Web?.</strong>
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse sho" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -53,7 +53,7 @@
     <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" id="#como_ser">
-        <strong>Como puedo ser un Desarrollador Web?.</strong>
+        <strong class="text-secondary">Como puedo ser un Desarrollador Web?.</strong>
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
