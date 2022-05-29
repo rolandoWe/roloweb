@@ -4,7 +4,7 @@
 
     <div class="card">
      <div class="img_card">
-     <img src="imagenes/html5.png" class="card-img-top" alt="...">
+     <img src="imagenes/HTML5.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
          <a href="" class="btn btn-primary form-control">HTML5</a>
@@ -12,7 +12,7 @@
     </div>
     <div class="card">
      <div class="img_card">
-     <img src="imagenes/css3.png" class="card-img-top" alt="...">
+     <img src="imagenes/CSS3.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
          <a href="" class="btn btn-primary form-control">CSS3</a>
@@ -66,7 +66,7 @@
 
     <div class="card">
      <div class="img_card">
-     <img src="imagenes/php.png" class="card-img-top" alt="...">
+     <img src="imagenes/PHP.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
          <a href="" class="btn btn-primary form-control">PHP</a>
