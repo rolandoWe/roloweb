@@ -1,5 +1,5 @@
 
- <footer class="bg-primary pt-3 pb-3 mt-2 mb-2 footer">
+ <footer class="bg-warning pt-3 pb-3 mt-2 mb-2 footer">
    <p class="text-center"><i class="fa-solid fa-laptop-code"></i> Creado por: Rolando Rivera</p>
    <p class="text-center"><i class="fa-solid fa-copyright"></i> Todos los Derechos Reservados.</p>
    <ul>
