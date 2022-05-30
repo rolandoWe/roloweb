@@ -49,21 +49,13 @@ body{
 .navbar-brand span{
     font-size: 20px;
 }
-/* .navbar-toggler{
-    color: rgb(151, 82, 82);
-    background-color: aliceblue;
+.navbar-toggler i{
+    font-size: 30px !important;
 }
-.navbar-toggler-icon{
-    color: red !important;
-    background-color: antiquewhite;
-} */
 
 .containe{
     width:100%;
-
     margin: auto !important;
-    /* background-color: antiquewhite !important; */
-    /* border: solid black 1px; */
 }
 .header{
     position: relative;
@@ -72,7 +64,8 @@ body{
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    background-color: rgba(255, 200, 50);
+    /* background-color: rgba(255, 200, 50); */
+    background-image: linear-gradient(rgba(255,200,50), rgba(255,200,50),rgba(255,255,255));
     padding: 10px 0;
 }
 .imagen{
@@ -88,7 +81,7 @@ body{
 .anio_nuevo{
     /* background-color: aqua; */
     position: absolute;
-    top: 0;
+   bottom: 0;
     right:5%
 }
 .anio_text{
@@ -101,9 +94,11 @@ body{
     display: inline-block;
     position: relative;
     margin-left: 1px;
-    /* background-color: brown; */
+    /* background-color: rgb(236, 215, 34); */
+    box-shadow: 0 0 3px 5px rgb(252, 226, 134);
     width:50px;
     height:50px;
+    line-height: 30px;
     border-radius: 50%;
     text-align: center;
 }
@@ -115,7 +110,7 @@ body{
     /* content: "Mes"; */
     position: absolute;
     /* text-align: center; */
-    top: 15px;
+    top:18px;
     right: 0;
     left: 0;
     bottom: 0;
@@ -149,7 +144,7 @@ content: "seg";
     font-weight: bold;
 }
 .dia::before,.hora::before,.minuto::before,.segundo::before{
-    color: rgb(255, 255, 255,.8);
+    color: rgba(255, 200, 50);
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 }
 .social{
@@ -183,7 +178,8 @@ content: "seg";
     justify-content: space-evenly;
 }
 .proyectos h2{
-    width:100%
+    width:100%;
+    padding-left: 5%;
 }
 .proyectos h2 i{
     font-size: 23px;
@@ -220,6 +216,7 @@ content: "seg";
 .tecnologias h2{
     width:100%;
     margin: 10px 0;
+    padding-left: 5%;
 }
 .tecnologias h2 i{
     font-size: 23px;
@@ -246,6 +243,9 @@ content: "seg";
 
 .footer{
     color:white
+}
+.footer li{
+    list-style: none;
 }
 .footer i{
     font-size: 25px;
