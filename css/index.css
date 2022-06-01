@@ -207,9 +207,6 @@ content: "seg";
     background-color: rgb(0, 0, 0,.9);
     color: rgba(232, 174, 0, 0.9);
 } */
-.anio2{
-    /* display: none; */
-}
 .proyectos{
     display: flex;
     flex-wrap: wrap;
