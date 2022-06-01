@@ -1,25 +1,18 @@
 
    <?php include('includ/head.php')?>
 
- <div class="container-fluid containe np">  
+ <div class="container-fluid np">  
 
     <div class="header">
       <div class="imagen">
-          <img src="imagenes/roloCeleste.png" alt="">
       </div>
 
-      <div class="anio_nuevo">
-        <p class="anio_text">Falta para año nuevo</p>
-        <!-- <span class="mes">00</span> -->
-        <span class="dia">00</span>
-        <span class="hora">00</span>
-        <span class="minuto">00</span>
-        <span class="segundo">00</span>
-      </div>
+
 
       <div class="datos">
           <h2>Rolando Rivera.</h2>
-          <span>Desarrollador web.</span>
+          <h4>Desarrollador web.</h4>
+          <h4>Front-End</h4>
       </div>
 
     </div>
@@ -27,12 +20,15 @@
     <div class="social">
       <a href=""><i class="fa-brands fa-facebook"></i> Rolando Rivera</a>
       </div>
+        <div class="anio2">
+        <?php include('includ/anioNuevo.php')?>
+        </div>
 
     <div class="accordion mt-4 mb-4" id="accordionExample">
      <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        <strong class="text-secondary">Que es un Desarrollador Web?.</strong>
+        <strong>Que es un Desarrollador Web?.</strong>
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse sho" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -53,7 +49,7 @@
     <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" id="#como_ser">
-        <strong class="text-secondary">Como puedo ser un Desarrollador Web?.</strong>
+        <strong>Como puedo ser un Desarrollador Web?.</strong>
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
