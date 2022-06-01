@@ -58,4 +58,8 @@
     width:100px;
     margin: 10px auto;
 }
+.footer p{
+    text-align: left !important;
+    padding-left: 5%;
+}
 }
