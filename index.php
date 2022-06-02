@@ -107,7 +107,8 @@
 
    <?php include('includ/proyectos.php')?>
    <?php include("includ/tecnologias.php")?>
-   <?php include('includ/footer.php')?>
-
 
  </div>
+
+ <?php include('includ/footer.php')?>
+
