@@ -58,6 +58,13 @@
     width:100px;
     margin: 10px auto;
 }
+/* DIFERENTES PAGINAS */
+.img_js img{
+    width:90%
+}
+.img-html,.img-css,.img-js{
+    width:100%
+}
 .footer p{
     text-align: left !important;
     padding-left: 5%;

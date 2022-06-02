@@ -21,20 +21,20 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-ligh">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">ROLANDO.<span>WEB</span></a>
+    <a class="navbar-brand" href="index.php">ROLANDO.<span>WEB</span></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <!-- <span class="navbar-toggler-ico">ivo</span> --> <i class="fa-solid fa-bars"></i>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">HTML</a>
+          <a class="nav-link active" aria-current="page" href="html.php">HTML</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">CSS</a>
+          <a class="nav-link" href="css.php">CSS</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">JAVASCRIPT</a>
+          <a class="nav-link" href="js.php">JAVASCRIPT</a>
         </li>
         <li class="nav-item">
           <a class="nav-link disable" href="#" tabindex="-1" aria-disabled="true">SOBRE MÍ</a>
