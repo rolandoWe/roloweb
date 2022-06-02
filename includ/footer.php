@@ -5,7 +5,7 @@
    <ul>
      <h5 class="fs-2">Contacto:</h5>
      <li><i class="fa-solid fa-envelope mt-2"></i> riverarolando71@gmail.com</li>
-     <li><i class="fa-brands fa-facebook mt-2"></i> <a href="" class="">Rolando Rivera</a></li>
+     <li><i class="fa-brands fa-facebook mt-2"></i> <a href="https://www.facebook.com/rolandoRivera85" class="">Rolando Rivera</a></li>
      <li><i class="fa-brands fa-whatsapp-square mt-2"></i> +506 7287-7301</li>
    </ul>
  </footer>
