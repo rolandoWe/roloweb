@@ -37,6 +37,9 @@
           <a class="nav-link" href="js.php">JAVASCRIPT</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="http://rolo85.epizy.com/">Otros</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link disable" href="#" tabindex="-1" aria-disabled="true">SOBRE MÍ</a>
         </li>
       </ul>
