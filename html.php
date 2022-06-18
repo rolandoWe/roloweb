@@ -2,7 +2,7 @@
 <?php include('includ/head.php')?>
 <div class="container-fluid">
     <div class="container-fluid bg-ligh">
-        <h2 class="pt-4 text-light">Que es HTML?</h2>
+        <h2 class="pt-4 text-secondary">Que es HTML?</h2>
     <p>HTML es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.</p>
     <div class="img-html mb-4">
         <img src="imagenes/maquetacion-email-html.png" alt="">
@@ -13,7 +13,7 @@
    <span>Fuente: <a href="https://desarrolloweb.com/">https://desarrolloweb.com/</a></span>
 
    <div class="notaHtml">
-       <h3 class="mt-5 mb-2 text-light">Sabias como mostar etiquetas HTML sin que el editor lo interprete?</h3>
+       <h3 class="mt-5 mb-2 text-secondary">Sabias como mostar etiquetas HTML sin que el editor lo interprete?</h3>
        <h5>Aqui te dejamos unos tips:</h5>
        <ul>
            <li>Para mostrar las llaves <strong>&lt;&gt;</strong> menor y mayor que; debemos escribir lo siguiente: </li>

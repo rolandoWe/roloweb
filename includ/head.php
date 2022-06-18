@@ -13,6 +13,11 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+    <!-- GOOGLE FONT -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap" rel="stylesheet">
+
     <title>Rolando</title>
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/mediaQuery.css">
@@ -20,7 +25,7 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-ligh">
-  <div class="container-fluid">
+  <div class="container-fluid menu">
     <a class="navbar-brand" href="index.php">ROLANDO.<span>WEB</span></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <!-- <span class="navbar-toggler-ico">ivo</span> --> <i class="fa-solid fa-bars"></i>

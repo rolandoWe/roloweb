@@ -1,7 +1,7 @@
 
 <?php include('includ/head.php')?>
 <div class="container-fluid">
-    <h2 class="text-light">Que es JavaScript?</h2>
+    <h2 class="text-secondary pt-4 pb-4">Que es JavaScript?</h2>
     <div class="img-js">
         <img src="imagenes/que-es.js.png" alt="">
     </div>

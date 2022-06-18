@@ -1,7 +1,7 @@
 
 <?php include('includ/head.php')?>
 <div class="container-fluid">
-    <h2 class="text-light pt-4">Que es CSS?</h2>
+    <h2 class="text-secondary pt-4">Que es CSS?</h2>
     <p>CSS (en inglés Cascading Style Sheets) es lo que se denomina lenguaje de hojas de estilo en cascada y se usa para estilizar elementos escritos en un lenguaje de marcado como HTML. CSS separa el contenido de la representación visual del sitio.</p>
     <p>CSS fue desarrollado por W3C (World Wide Web Consortium) en 1996 por una razón muy sencilla. HTML no fue diseñado para tener etiquetas que ayuden a formatear la página. Está hecho solo para escribir el marcado para el sitio.</p>
     <div class="img-css">
@@ -11,7 +11,7 @@
     <p>La relación entre HTML y CSS es muy fuerte. Dado que HTML es un lenguaje de marcado (es decir, constituye la base de un sitio) y CSS enfatiza el estilo (toda la parte estética de un sitio web), van de la mano.</p>
     <p>CSS no es técnicamente una necesidad, pero no querrás tener un sitio que solo tenga HTML, ya que se vería completamente desnudo.</p>
 
-    <h2 class="text-light pt-4">Ventajas de CSS.</h2>
+    <h2 class="text-secondary pt-4">Ventajas de CSS.</h2>
     <p>La diferencia entre un sitio web que implementa CSS y uno que no, es enorme y definitivamente se nota.</p>
     <p>Quizás hayas visto algún sitio web que no se puede cargar por completo y tiene un fondo blanco con la mayor parte del texto en azul y negro. Eso significa que la parte CSS del sitio no se cargó correctamente o no existe.</p>
     <p>Así es como se ve un sitio con solo HTML, y creo que estarás de acuerdo conmigo en que no luce muy bien.</p>

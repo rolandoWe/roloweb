@@ -5,21 +5,27 @@
 
     <div class="header">
       <div class="imagen">
+      <h2>Rolando Rivera.</h2>
+      <p>Desarrollador web.</p>
+      <span>Front-End</span>
       </div>
 
 
 
       <div class="datos">
-          <h2>Rolando Rivera.</h2>
-          <h4>Desarrollador web.</h4>
-          <h4>Front-End</h4>
+          <p>Soy Rolando Rivera, soy desarrollador web Front-end.</p>
+          <p>Mis habilidades principales están basados en HTML, CSS, Bootstrap y un poco de JavaScript.</p>
+          <p>Tengo conocimientos básicos en Git y GitHub.</p>
+          <a href="#" class="btn btn-warning mt-3">Algo sobre mí</a>
       </div>
 
-    </div>
-
-    <div class="social">
+      <div class="social">
       <a href="https://www.facebook.com/rolandoRivera85"><i class="fa-brands fa-facebook"></i> Rolando Rivera</a>
       </div>
+    </div>
+
+
+
         <div class="anio2">
         <?php include('includ/anioNuevo.php')?>
         </div>
@@ -107,6 +113,7 @@
 
    <?php include('includ/proyectos.php')?>
    <?php include("includ/tecnologias.php")?>
+   <?php include("includ/juegos.php")?>
 
  </div>
 
