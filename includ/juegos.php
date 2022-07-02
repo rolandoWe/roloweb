@@ -10,7 +10,7 @@
      <div class="card-body">
        <h5 class="card-title">Juego de Memoria</h5>
        <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-       <a href="https://rolandowe.github.io/juego_mente/" class="btn btn-warning form-control">Jugar</a>
+       <a href="https://rolandowe.github.io/juego_mente/" class="btn btn-primary form-control">Jugar</a>
       </div>
      </div>
    <!-- </div> -->
@@ -22,7 +22,7 @@
      <div class="card-body">
        <h5 class="card-title">Memorama</h5>
        <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-       <a href="https://rolandowe.github.io/memorama/" class="btn btn-warning form-control">Jugar</a>
+       <a href="https://rolandowe.github.io/memorama/" class="btn btn-primary form-control">Jugar</a>
       </div>
      </div>
 

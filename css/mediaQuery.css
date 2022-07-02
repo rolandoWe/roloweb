@@ -3,13 +3,16 @@
     .header{
         padding: 0px 0 20px 0;
         height: auto;
-        background-size: contain;
-        background-position-y:50px ;
+        background-size: cover;
+        background-position-y:top ;
+    }
+    .datos{
+        display: none;
     }
 .imagen{
     /* position: absolute; */
     /* right: 0; */
-    height:160px;
+    height:250px;
     width:100%;
     margin-top: 0px;
     border-radius: 0px;
@@ -18,7 +21,7 @@
     /* border-radius: 10px; */
 }
 .imagen h2{
-    margin-top: 70px;
+    margin-top: 140px;
 }
 .anio_nuevo{
     left: 5px;
@@ -76,7 +79,7 @@
 .img-html,.img-css,.img-js{
     width:100%
 }
-.container .card{
+.container .card,.masProyectos .card{
     width:90%
 }
 .footer p{

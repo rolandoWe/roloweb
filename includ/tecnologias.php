@@ -7,7 +7,7 @@
      <img src="imagenes/HTML5.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">HTML5</a>
+         <a href="" class="btn btn-primary form-control">HTML5</a>
         </div>
     </div>
     <div class="card">
@@ -15,7 +15,7 @@
      <img src="imagenes/CSS3.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">CSS3</a>
+         <a href="" class="btn btn-primary form-control">CSS3</a>
         </div>
     </div>
     
@@ -24,7 +24,7 @@
      <img src="imagenes/javascript.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">JavaScript</a>
+         <a href="" class="btn btn-primary form-control">JavaScript</a>
         </div>
     </div>
 
@@ -33,7 +33,7 @@
      <img src="imagenes/bootstrap.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">Bootstrap</a>
+         <a href="" class="btn btn-primary form-control">Bootstrap</a>
         </div>
     </div>
 
@@ -42,7 +42,7 @@
      <img src="imagenes/github.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">Github</a>
+         <a href="" class="btn btn-primary form-control">Github</a>
         </div>
     </div>
 
@@ -51,7 +51,7 @@
      <img src="imagenes/heroku.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">Heroku</a>
+         <a href="" class="btn btn-primary form-control">Heroku</a>
         </div>
     </div>
 
@@ -60,7 +60,7 @@
      <img src="imagenes/logo_git.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">Git</a>
+         <a href="" class="btn btn-primary form-control">Git</a>
         </div>
     </div>
 
@@ -69,7 +69,7 @@
      <img src="imagenes/PHP.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">PHP</a>
+         <a href="" class="btn btn-primary form-control">PHP</a>
         </div>
     </div>
 
@@ -78,7 +78,7 @@
      <img src="imagenes/python.png" class="card-img-top" alt="...">
      </div>
         <div class="card-body">
-         <a href="" class="btn btn-warning form-control">PYTHON</a>
+         <a href="" class="btn btn-primary form-control">PYTHON</a>
         </div>
     </div>
 </div>

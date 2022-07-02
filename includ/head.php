@@ -26,7 +26,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-ligh">
   <div class="container-fluid menu">
-    <a class="navbar-brand" href="index.php">ROLANDO.<span>WEB</span></a>
+    <a class="navbar-brand" href="index.php">ROLRIV<span></span></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <!-- <span class="navbar-toggler-ico">ivo</span> --> <i class="fa-solid fa-bars"></i>
     </button>
@@ -42,7 +42,7 @@
           <a class="nav-link" href="js.php">JAVASCRIPT</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://rolo85.epizy.com/">Otros</a>
+          <a class="nav-link" href="http://rolo85.epizy.com/">RETOS</a>
         </li>
         <li class="nav-item">
           <a class="nav-link disable" href="#" tabindex="-1" aria-disabled="true">SOBRE MÍ</a>
