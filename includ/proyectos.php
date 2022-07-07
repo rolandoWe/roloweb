@@ -1,5 +1,6 @@
 
     <div class="proyectos">
+      <p>A continuación te muestro algunas cosas que he logrado crear con <a href="html.php">HTML</a>, <a href="css.php">CSS</a> y algo de <a href="js.php">JavaScript</a> y porsupuesto haciendo uso de las facilidades que te proporciona <a href="#">Bootstrap</a>.</p>
       <h2 class="mt-4 mb-4 pb-4 text-secondary">Mis Proyectos:  &nbsp;<i class="fa-solid fa-turn-down"></i></h2>
      <div class="card">
        <div class="card-img">

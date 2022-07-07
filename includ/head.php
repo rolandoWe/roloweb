@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="css/mediaQuery.css">
 </head>
 <body>
+<div class="container-fluid np">
 
 <nav class="navbar navbar-expand-lg navbar-light bg-ligh">
   <div class="container-fluid menu">
